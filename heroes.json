@@ -1,0 +1,4004 @@
+[
+  {
+    "id": "1011",
+    "slug": "hulk",
+    "name": "hulk",
+    "role": "Vanguard",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/hulk.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Puny Banner",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "600",
+        "cooldown": "N/A",
+        "desc": "Transform from Bruce Banner into Hero Hulk.",
+        "icon": "/abilities/101131.webp"
+      },
+      {
+        "name": "Gamma Ray Gun",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire with a Gamma Ray Gun.",
+        "icon": "/abilities/101111.webp"
+      },
+      {
+        "name": "Gamma Grenade",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Launch a Gamma Grenade to inflict damage and <Debuff>Launch Up</> enemies.",
+        "icon": "/abilities/101121.webp"
+      },
+      {
+        "name": "Gamma Boost",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which, will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/101196.webp"
+      },
+      {
+        "name": "Gamma Fastball",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "3s when not thrown, 15s when thrown",
+        "desc": "Wolverine, Hulk{000003}{105100} can interact with each other. Once both parties confirm, Hulk{000003}{105100} can lift Wolverine and press the key to hurl him forward.",
+        "icon": "/abilities/101197.webp"
+      },
+      {
+        "name": "Hulk Smash!",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Unleash stored gamma energy, transforming from Hero Hulk into Monster Hulk for a limited time period.",
+        "icon": "/abilities/101132.webp"
+      },
+      {
+        "name": "Heavy Blow",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Swing fists forward to punch enemies.",
+        "icon": "/abilities/101113.webp"
+      },
+      {
+        "name": "Incredible Leap",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hold {Jump} to perform a charged leap that allows Hero Hulk to <Debuff>Knock Down</> flying enemies.",
+        "icon": "/abilities/101191.webp"
+      },
+      {
+        "name": "Gamma Burst",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Emit gamma-ray bursts to inflict damage.",
+        "icon": "/abilities/101122.webp"
+      },
+      {
+        "name": "Indestructible Guard",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Generate gamma shields for Hero Hulk and nearby allies, absorbing and converting damage into energy for <Orange>HULK SMASH!</>",
+        "icon": "/abilities/101141.webp"
+      },
+      {
+        "name": "Radioactive Lockdown",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Emit gamma energy to render enemies immobilized and immune to all ability effects. Using <Orange>Heavy Blow</> or <Orange>Gamma Burst</> will prematurely remove this status.",
+        "icon": "/abilities/101151.webp"
+      },
+      {
+        "name": "Gamma Boost",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which, will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/101196.webp"
+      },
+      {
+        "name": "Gamma Fastball",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "3s when not thrown, 15s when thrown",
+        "desc": "Wolverine, Hulk{000003}{105100} can interact with each other. Once both parties confirm, Hulk{000003}{105100} can lift Wolverine and press the key to hurl him forward.",
+        "icon": "/abilities/101197.webp"
+      },
+      {
+        "name": "World Breaker",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": " Grab and smash the enemy in front.",
+        "icon": "/abilities/101171.webp"
+      },
+      {
+        "name": "Heavy Blow",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Swing fists forward to punch and <Debuff>launch up</> enemies.",
+        "icon": "/abilities/101114.webp"
+      },
+      {
+        "name": "Incredible Leap",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hold {Jump} to perform a charged leap that allows Monster Hulk to <Debuff>Knock Down</> flying enemies.",
+        "icon": "/abilities/101193.webp"
+      },
+      {
+        "name": "Gamma Burst",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Emit gamma-ray bursts to inflict damage.",
+        "icon": "/abilities/101123.webp"
+      },
+      {
+        "name": "Radioactive Lockdown",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Emit gamma energy to render enemies immobilized and immune to all ability effects. Using <Orange>Heavy Blow</> or <Orange>Gamma Burst</> will prematurely remove this status.",
+        "icon": "/abilities/101152.webp"
+      },
+      {
+        "name": "Gamma Boost",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which, will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/101196.webp"
+      },
+      {
+        "name": "Gamma Fastball",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "3s when not thrown, 15s when thrown",
+        "desc": "Wolverine, Hulk{000003}{105100} can interact with each other. Once both parties confirm, Hulk{000003}{105100} can lift Wolverine and press the key to hurl him forward.",
+        "icon": "/abilities/101197.webp"
+      }
+    ]
+  },
+  {
+    "id": "1014",
+    "slug": "the-punisher",
+    "name": "the punisher",
+    "role": "Duelist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/the-punisher.png",
+    "team": [
+      "Marvelknights"
+    ],
+    "skills": [
+      {
+        "name": "Final Judgement",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Unleash two gatling guns and missiles to attack enemies.",
+        "icon": "/abilities/101481.webp"
+      },
+      {
+        "name": "Adjudication",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire at enemies with Adjudication, his Automatic Rifle.",
+        "icon": "/abilities/101431.webp"
+      },
+      {
+        "name": "Deliverance",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire at enemies with Deliverance, his Shotgun.",
+        "icon": "/abilities/101441.webp"
+      },
+      {
+        "name": "Scourge Grenade",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Throw a smoke grenade forward to <Debuff>Block Enemies' Vision</> and leap backward.",
+        "icon": "/abilities/101433.webp"
+      },
+      {
+        "name": "Warrior's Gaze",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Retain vision of enemies that disappear from view for a short duration.",
+        "icon": "/abilities/101411.webp"
+      },
+      {
+        "name": "Vantage Connection",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Launch a hook to generate a cable that enables Punisher to move rapidly by pressing {Interactive}.",
+        "icon": "/abilities/101451.webp"
+      },
+      {
+        "name": "Culling Turret",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Deploy a Culling Turret that grounds Punisher and blocks damage from the front while dealing massive damage.",
+        "icon": "/abilities/101461.webp"
+      },
+      {
+        "name": "Infinite Punishment",
+        "type": "Passive",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Rocket Raccoon throws an Ammo Overload Device in the target direction. Upon entering the device's range, {101400} receive the buffs of <Buff>Infinite Ammo</> and <Buff>Faster Firing</>.",
+        "icon": "/abilities/101400.webp"
+      },
+      {
+        "name": "Cutting-edge Tech",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "The Punisher upgrades Black Widow's arsenal, adding a Pulse Mode to her Red Room Rifle. While the ability is active, using <Orange>Straight Shooter</> fires a pulse beam that deals piercing damage.",
+        "icon": "/abilities/101402.webp"
+      }
+    ]
+  },
+  {
+    "id": "1015",
+    "slug": "storm",
+    "name": "storm",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/storm.png",
+    "team": [
+      "X_men",
+      "Mutants"
+    ],
+    "skills": [
+      {
+        "name": "Omega Hurricane",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Transform into a hurricane to draw in nearby enemies and deal damage.",
+        "icon": "/abilities/101561.webp"
+      },
+      {
+        "name": "Wind Blade",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch forward-piercing Wind Blades.",
+        "icon": "/abilities/101521.webp"
+      },
+      {
+        "name": "Bolt Rush",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Unleash a lightning bolt forward.",
+        "icon": "/abilities/101531.webp"
+      },
+      {
+        "name": "Weather Control",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Switch the weather to empower allies: Tornado grants a <Buff>Movement Boost</>; Thunder grants a <Buff>Damage Boost</>.",
+        "icon": "/abilities/101542.webp"
+      },
+      {
+        "name": "Goddess Boost",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Channel the power of the weather to empower Storm: Tornado grants a <Buff>Movement Boost</> and inflicts <Debuff>Slow</> on enemies; Thunder grants a <Buff>Damage Boost</> and summons lightning to inflict damage.",
+        "icon": "/abilities/101551.webp"
+      },
+      {
+        "name": "Burning Hurricane",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When the Human Torch activates <Orange>Supernova</>, Storm can summon an <Orange>Omega Fire</> by selecting a <Orange>Flame Tornado</> with <Orange>Omega Hurricane</>. Likewise, when Storm unleashes <Orange>Omega Hurricane</>, the Human Torch can transform it into a <Orange>Burning Hurricane</> with <Orange>Supernova</>. Any <Orange>Flame Tornado</> caught in a <Orange>Burning Hurricane</> will grow in size and damage.",
+        "icon": "/abilities/101562.webp"
+      },
+      {
+        "name": "Charged Gale",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Thor infuses <Orange>Thorforce</> into {101500}{000003}{102200}, granting them an electrifying enhancement. {101501}{102201}",
+        "icon": "/abilities/101581.webp"
+      },
+      {
+        "name": "Shark Surge",
+        "type": "Passive",
+        "key": "PASSIVE",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Storm unleashes her <Orange>Omega Hurricane</>, if Jeff the Land Shark has <Orange>It's Jeff!</> ready, he can channel her power to conjure a ferocious <Orange>Jeff-nado</>! Additionally, a <Orange>Jeff-nado</> will form if Jeff encounters Storm's <Orange>Omega Hurricane</> after devouring enemies with <Orange>It's Jeff!</>. Enemies will be drawn into the swirling chaos after enduring sustained damage from the <Orange>Jeff-nado</> for some time.",
+        "icon": "/abilities/101582.webp"
+      }
+    ]
+  },
+  {
+    "id": "1016",
+    "slug": "loki",
+    "name": "loki",
+    "role": "Strategist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/loki.png",
+    "team": [
+      "Godsofasgard"
+    ],
+    "skills": [
+      {
+        "name": "Mystical Missile",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire Mystical Missiles to heal allies or deal damage to enemies.",
+        "icon": "/abilities/101621.webp"
+      },
+      {
+        "name": "Regeneration Domain",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Use Rune Stones to create a magical field that provides allies <Buff>Healing Over Time</> and converts incoming damage into further healing.",
+        "icon": "/abilities/101631.webp"
+      },
+      {
+        "name": "Deception",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Become <Buff>Invisible</> and conjure an <Orange>Illusion</> to deceive enemies.",
+        "icon": "/abilities/101641.webp"
+      },
+      {
+        "name": "Doppelganger",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "2 charges, with each charge taking 12s to recharge",
+        "desc": "Project an <Orange>Illusion</> that can cast some of Loki's abilities.",
+        "icon": "/abilities/101651.webp"
+      },
+      {
+        "name": "Devious Exchange",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Swap with the selected <Orange>Illusion</>.",
+        "icon": "/abilities/101652.webp"
+      },
+      {
+        "name": "God Of Mischief",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Shapeshift into a targeted ally or enemy hero and use all their abilities except any of their Team-Up Abilities.",
+        "icon": "/abilities/101661.webp"
+      },
+      {
+        "name": "Backstab",
+        "type": "Normal",
+        "key": "V",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Pull out a dagger to stab enemies, dealing extra damage when attacking an enemy from behind.",
+        "icon": "/abilities/101611.webp"
+      },
+      {
+        "name": "Laufeyson Reborn",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Hela lands a final hit in defeating an enemy, she can instantly resurrect {101600}{000003}{103900} in the respawn phase, or grant them <Buff>Bonus Health</> if they are still alive.",
+        "icon": "/abilities/101601.webp"
+      }
+    ]
+  },
+  {
+    "id": "1017",
+    "slug": "human-torch",
+    "name": "human torch",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/human-torch.png",
+    "team": [
+      "Fantasticfour"
+    ],
+    "skills": [
+      {
+        "name": "Fire Cluster",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch forward a cluster of splitting fireballs.",
+        "icon": "/abilities/101711.webp"
+      },
+      {
+        "name": "Plasma Body",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "15/s",
+        "cooldown": "N/A",
+        "desc": "HOLD {Ability2} to enter a state of <Buff>accelerated ascent</>.",
+        "icon": "/abilities/101721.webp"
+      },
+      {
+        "name": "Blazing Blast",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch a fireball to deal damage or create a <Orange>Flame Field</> at the targeted area, dealing damage to enemies within.",
+        "icon": "/abilities/101731.webp"
+      },
+      {
+        "name": "Flaming Meteor",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Dive towards the ground, dealing damage to enemies. This will also detonate any <Orange>Flame Fields</> hit and grant you <Buff>Bonus Health</>.",
+        "icon": "/abilities/101741.webp"
+      },
+      {
+        "name": "Pyro-prison",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "When 2 or more  <Orange>Flame Fields</> exist, connect them to form a fire wall that deals one-off high damage to enemies that pass through the wall, or continuous burning damage if the wall exists in an enclosed area.",
+        "icon": "/abilities/101751.webp"
+      },
+      {
+        "name": "Supernova",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Explode with cosmic fire to deal damage to enemies within range and enter <Orange>Supernova</> state. While in Supernova state, <Orange>Blazing Blast</> will transform into <Orange>Flame Tornado</>, and <Orange>Plasma Body</> can be activated without any cost.",
+        "icon": "/abilities/101761.webp"
+      },
+      {
+        "name": "Omega Fire",
+        "type": "Normal",
+        "key": "X",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When the Human Torch activates <Orange>Supernova</>, Storm can summon an <Orange>Omega Fire</> by selecting a <Orange>Flame Tornado</> with <Orange>Omega Hurricane</>. Likewise, when Storm unleashes <Orange>Omega Hurricane</>, the Human Torch can transform it into a <Orange>Burning Hurricane</> with <Orange>Supernova</>. Any <Orange>Flame Tornado</> caught in a <Orange>Burning Hurricane</> will grow in size and damage.",
+        "icon": "/abilities/101791.webp"
+      },
+      {
+        "name": "United Siblings",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "The Invisible Woman taps into her powers, channeling Psionic Might to fortify the entire Fantastic Four team. This formidable force bolsters Human Torch, The Thing, and Mister Fantastic, granting damage resistance. Once activated, they can continually generate <Buff>Bonus Health</>, making up for lost Health.",
+        "icon": "/abilities/101792.webp"
+      }
+    ]
+  },
+  {
+    "id": "1018",
+    "slug": "doctor-strange",
+    "name": "doctor strange",
+    "role": "Vanguard",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/doctor-strange.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Eye Of Agamotto",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Separate nearby enemies' <Orange>Souls</> from their bodies. Damage dealt to these <Orange>Souls</> is transferred to their physical bodies.",
+        "icon": "/abilities/101871.webp"
+      },
+      {
+        "name": "Daggers Of Denak",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Cast Daggers of Denak forward.",
+        "icon": "/abilities/101811.webp"
+      },
+      {
+        "name": "Pentagram Of Farallah",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "180s",
+        "desc": "Open portals between two locations, enabling all units to travel through them.",
+        "icon": "/abilities/101861.webp"
+      },
+      {
+        "name": "Shield Of The Seraphim",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Create a protective barrier against damage.",
+        "icon": "/abilities/101841.webp"
+      },
+      {
+        "name": "Maelstrom Of Madness",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Release <Orange>Dark Magic</> to deal damage to nearby enemies.",
+        "icon": "/abilities/101851.webp"
+      },
+      {
+        "name": "Price Of Magic",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "<Orange>Dark Magic</> accumulates with every hit on an enemy. If <Orange>Dark Magic</> peaks for too long, Doctor Strange will be cursed with <Debuff>Anti-Heal</>.",
+        "icon": "/abilities/101881.webp"
+      },
+      {
+        "name": "Cloak Of Levitation",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Ascend and then enter a brief state of sustained flight.",
+        "icon": "/abilities/101891.webp"
+      },
+      {
+        "name": "Gamma Maelstrom",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which, will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/101852.webp"
+      },
+      {
+        "name": "Enchanted Enhancement",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Doctor Strange shares his arcane mastery, replacing Scarlet Witch's <Orange>Chthonian Burst</> with <Orange>Mystic Burst</> upon activation. Hold down the attack button to unleash a rapid, relentless salvo of magical missiles in the target direction.",
+        "icon": "/abilities/101892.webp"
+      }
+    ]
+  },
+  {
+    "id": "1020",
+    "slug": "mantis",
+    "name": "mantis",
+    "role": "Strategist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/mantis.png",
+    "team": [
+      "Guardiansofthegalaxy"
+    ],
+    "skills": [
+      {
+        "name": "Soul Resurgence",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3700",
+        "cooldown": "N/A",
+        "desc": "Release energy around her while moving, providing <Buff>Healing Over Time</> and <Buff>Movement Boosts</> for surrounding allies. Excess healing converts to <Buff>Bonus Health</>.",
+        "icon": "/abilities/102071.webp"
+      },
+      {
+        "name": "Life Energy Blast",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire an energy thorn and regain one <Orange>Life Orb</> after a critical hit.",
+        "icon": "/abilities/102011.webp"
+      },
+      {
+        "name": "Healing Flower",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "Consume 1 Life Orb",
+        "desc": "Consume <Orange>Life Orbs</> to grant allies <Buff>Healing Over Time</>.",
+        "icon": "/abilities/102061.webp"
+      },
+      {
+        "name": "Spore Slumber",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Throw a spore to <Debuff>Sedate</> the nearest enemy.",
+        "icon": "/abilities/102051.webp"
+      },
+      {
+        "name": "Allied Inspiration",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "Consume 1 Life Orb",
+        "desc": "Consume <Orange>Life Orbs</> to grant allies a <Buff>Damage Boost</>.",
+        "icon": "/abilities/102041.webp"
+      },
+      {
+        "name": "Nature's Favor",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Receive a <Buff>Movement Boost</> when not injured and <Orange>Healing Over Time</> when consuming <Buff>Life Orbs</>.",
+        "icon": "/abilities/102031.webp"
+      },
+      {
+        "name": "Natural Anger",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "Consume 1 Life Orb",
+        "desc": "Consume <Orange>Life Orbs</> to grant herself a <Buff>Damage Boost</>.",
+        "icon": "/abilities/102091.webp"
+      },
+      {
+        "name": "Nature's Soul",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "120s",
+        "desc": "Adam Warlock enhances the rebirth power of {104300}{000003}{102000}, granting them the power of cocooned revival.",
+        "icon": "/abilities/102081.webp"
+      }
+    ]
+  },
+  {
+    "id": "1021",
+    "slug": "hawkeye",
+    "name": "hawkeye",
+    "role": "Duelist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/hawkeye.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Skyward Leap",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Perform a double jump in the direction of movement.",
+        "icon": "/abilities/102101.webp"
+      },
+      {
+        "name": "Archer's Focus",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Aim at an enemy to improve focus, enhancing the damage inflicted by <Orange>Piercing Arrow</>.",
+        "icon": "/abilities/102111.webp"
+      },
+      {
+        "name": "Piercing Arrow",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot a powerful arrow.",
+        "icon": "/abilities/102131.webp"
+      },
+      {
+        "name": "Ronin Slash",
+        "type": "Normal",
+        "key": "V",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Swing the wakizashi to strike frontal enemies, deflecting all incoming <Orange>projectiles</>.",
+        "icon": "/abilities/102191.webp"
+      },
+      {
+        "name": "Blast Arrow",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "0.5s",
+        "desc": "Shoot three explosive arrows.",
+        "icon": "/abilities/102132.webp"
+      },
+      {
+        "name": "Hypersonic Arrow",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Shoot a Hypersonic Arrow, dealing two instances of damage to enemies in its path and inflicting them with <Debuff>Slow</>. This ability can <Debuff>Knock Down</> flying heroes.",
+        "icon": "/abilities/102161.webp"
+      },
+      {
+        "name": "Crescent Slash",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Unsheathe a katana and slash forward, <Debuff>Launching Up</> hit enemies.",
+        "icon": "/abilities/102171.webp"
+      },
+      {
+        "name": "Hunter's Sight",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Capture <Orange>Afterimages</> of enemies in his view. Damage dealt to an <Orange>Afterimage</> is transferred to the corresponding enemy.",
+        "icon": "/abilities/102181.webp"
+      },
+      {
+        "name": "Supersensory Vision",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hawkeye can share his Hunter's Sight with Black Widow, enabling her to catch sight of and damage afterimages of enemies.",
+        "icon": "/abilities/102192.webp"
+      },
+      {
+        "name": "Ice Arrow",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "With the blessing of Luna Snow, Hawkeye is imbued with the ice energy, allowing him to fire <Orange>Ice Arrows</> that pierce through enemies! If an <Orange>Ice Arrow</> travels beyond a certain distance, it <Debuff>Stuns</> any enemy it hits. If it strikes before reaching that distance, it instead <Debuff>Slows</> the target. The farther the <Orange>Ice Arrow</> flies, the greater its damage.",
+        "icon": "/abilities/102193.webp"
+      }
+    ]
+  },
+  {
+    "id": "1022",
+    "slug": "captain-america",
+    "name": "captain america",
+    "role": "Vanguard",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/captain-america.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Sentinel Strike",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Get up close to strike enemies. Landing the second hit enables a shield throw that can ricochet four times.",
+        "icon": "/abilities/102235.webp"
+      },
+      {
+        "name": "Living Legend",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "1s",
+        "desc": "Raise the shield to deflect incoming <Orange>Projectiles</>, sending them ricocheting in random directions.",
+        "icon": "/abilities/102241.webp"
+      },
+      {
+        "name": "Leading Dash",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Boost speed and enable <Orange>Fearless Leap</> to leap into the air.",
+        "icon": "/abilities/102251.webp"
+      },
+      {
+        "name": "Super-soldier Slam",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Slam down from the sky onto the targeted area, <Debuff>Launching Up</> enemies.",
+        "icon": "/abilities/102253.webp"
+      },
+      {
+        "name": "Vibranium Energy Saw",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Hurl the energy-charged shield to strike enemies in a path.",
+        "icon": "/abilities/102261.webp"
+      },
+      {
+        "name": "Freedom Charge",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Shield held high, carve a path forward, granting both himself and allies along the path continuous <Buff>Bonus Health</> and <Buff>Movement Boosts</>. Using <Orange>Living Legend</> and <Orange>Leading Dash</> while this ability is active can <Debuff>Launch Up</> enemies.",
+        "icon": "/abilities/102271.webp"
+      },
+      {
+        "name": "Charged Aegis",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Thor infuses <Orange>Thorforce</> into {101500}{000003}{102200}, granting them an electrifying enhancement. {101501}{102201}",
+        "icon": "/abilities/102281.webp"
+      },
+      {
+        "name": "Liberty Rush",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Raise the shield and charge forward.",
+        "icon": "/abilities/102236.webp"
+      },
+      {
+        "name": "Captain's Spirit",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Inspired by Captain America's resolve, Winter Soldier can leap to the aid of a designated ally, slamming the ground with his mechanical arm to damage nearby foes and grant <Buff>Bonus Health</> to allies within range. Captain America and Winter Soldier can interact with each other once both parties confirm. The duo then collides and unleashes a shockwave that damages and <Debuff>slows</> enemies.",
+        "icon": "/abilities/102292.webp"
+      }
+    ]
+  },
+  {
+    "id": "1023",
+    "slug": "rocket-raccoon",
+    "name": "rocket raccoon",
+    "role": "Strategist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/rocket-raccoon.png",
+    "team": [
+      "Guardiansofthegalaxy"
+    ],
+    "skills": [
+      {
+        "name": "Wild Crawl",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hold {Jump} to run on a wall.",
+        "icon": "/abilities/102301.webp"
+      },
+      {
+        "name": "Bombard Mode",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire energy projectiles that deal damage.",
+        "icon": "/abilities/102321.webp"
+      },
+      {
+        "name": "Jetpack Dash",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "2 charges, with each charge taking 6s to recharge",
+        "desc": "Dash forward.",
+        "icon": "/abilities/102331.webp"
+      },
+      {
+        "name": "B.r.b.",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "45s. You can reclaim the beacon by pressing E. When reclaimed, the cooldown will be reduced based on the beacon's remaining health. If you reclaim a full-health beacon, the minimum cooldown will be 5s",
+        "desc": "Deploy a Battle Rebirth Beacon that revives a fallen ally and periodically produces <Orange>armor packs</> and <Orange>rocket jet packs</>.",
+        "icon": "/abilities/102341.webp"
+      },
+      {
+        "name": "C.y.a.",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Deploy a Cosmic Yarn Amplifier that grants allies a <Buff>Damage Boost</>, while continuously providing them with <Buff>Bonus Health</>.",
+        "icon": "/abilities/102351.webp"
+      },
+      {
+        "name": "Repair Mode",
+        "type": "Weapon",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot bouncing spheres to heal allies. Directly hitting an ally provides extra healing.",
+        "icon": "/abilities/102322.webp"
+      },
+      {
+        "name": "Flying Ace",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hold {Jump} to fall slowly.",
+        "icon": "/abilities/102332.webp"
+      },
+      {
+        "name": "OLD FRIENDS",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Rocket Raccoon and Jeff can ride on Groot's shoulders, receiving Damage Reduction.",
+        "icon": "/abilities/102361.webp"
+      },
+      {
+        "name": null,
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": null,
+        "icon": "/abilities/102381.webp"
+      },
+      {
+        "name": null,
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": null,
+        "icon": "/abilities/102382.webp"
+      }
+    ]
+  },
+  {
+    "id": "1024",
+    "slug": "hela",
+    "name": "hela",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/hela.png",
+    "team": [
+      "Godsofasgard",
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Nightsword Thorn",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Throw Nightsword Thorns.",
+        "icon": "/abilities/102431.webp"
+      },
+      {
+        "name": "Nastrond Crowstorm",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Defeating an enemy will generate a Nastrond Crow, exploding after a duration.",
+        "icon": "/abilities/102411.webp"
+      },
+      {
+        "name": "Piercing Night",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Fire multiple Nightsword Thorns that detonate after a delay.",
+        "icon": "/abilities/102441.webp"
+      },
+      {
+        "name": "Astral Flock",
+        "type": "Normal",
+        "key": "Shift",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Transform into a Nastrond Crow to glide forth, press again to undo the transformation.",
+        "icon": "/abilities/102451.webp"
+      },
+      {
+        "name": "Soul Drainer",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Project an explosive Hel sphere to <Debuff>Stun</> nearby enemies and pull them into the blast zone.",
+        "icon": "/abilities/102461.webp"
+      },
+      {
+        "name": "Goddess Of Death",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Soar into the sky and unleash Nastrond Crows from each hand at will.",
+        "icon": "/abilities/102471.webp"
+      },
+      {
+        "name": "Hel's Descent",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD {Jump} to fall slowly.",
+        "icon": "/abilities/102481.webp"
+      },
+      {
+        "name": "Queen Of Hel",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Hela lands a final hit in defeating an enemy, she can instantly resurrect {101600}{000003}{103900} in the respawn phase, or grant them <Buff>Bonus Health</> if they are still alive.",
+        "icon": "/abilities/102402.webp"
+      }
+    ]
+  },
+  {
+    "id": "1025",
+    "slug": "cloak-&-dagger",
+    "name": "cloak & dagger",
+    "role": "Strategist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/cloak-&-dagger.png",
+    "team": [
+      "Marvelknights"
+    ],
+    "skills": [
+      {
+        "name": "Lightforce Dagger",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a bouncing <Orange>Lightforce Dagger</> to damage enemies and heal nearby allies.",
+        "icon": "/abilities/102511.webp"
+      },
+      {
+        "name": "Dagger Storm",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Launch a volley of daggers, creating a <Buff>Healing-Over-Time</> field in the impact area.",
+        "icon": "/abilities/102541.webp"
+      },
+      {
+        "name": "Shadow's Embrace",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Switch to Cloak.",
+        "icon": "/abilities/102551.webp"
+      },
+      {
+        "name": "Light Explosion",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Deploy a Veil of Lightforce to heal allies upon touch and grant them a <Buff>Healing Boost</>.",
+        "icon": "/abilities/102561.webp"
+      },
+      {
+        "name": "Darkforce Cloak",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Inflict continuous damage to an enemy.",
+        "icon": "/abilities/102581.webp"
+      },
+      {
+        "name": "Dark Teleportation",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Enshroud nearby allies in the Darkforce Dimension and grant them <Buff>Phased</>, making them untargetable and invisible to enemies and granting them a <Buff>Movement Boost</>.",
+        "icon": "/abilities/102591.webp"
+      },
+      {
+        "name": "Terror Cape",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Deploy a Veil of Darkforce to damage enemies upon touch, applying <Debuff>Blind</> to narrow their sight and <Debuff>Vulnerability</> to amplify damage received.",
+        "icon": "/abilities/102562.webp"
+      },
+      {
+        "name": "Eternal Bond",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Perform four rapid dashes, healing allies and damaging enemies along the path.",
+        "icon": "/abilities/102571.webp"
+      },
+      {
+        "name": "From Shadow To Light",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Cloak & Dagger can inject light and dark energy into {103000}{000003}{104400} to create a Light & Dark Realm where {103000}{000003}{104400} can become <Buff>invisible</>. {104401}",
+        "icon": "/abilities/102596.webp"
+      },
+      {
+        "name": "Lightforce Dagger",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a bouncing <Orange>Lightforce Dagger</> to damage enemies and heal nearby allies.",
+        "icon": "/abilities/102511.webp"
+      },
+      {
+        "name": "Dagger Storm",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Launch a volley of daggers, creating a <Buff>Healing-Over-Time</> field in the impact area.",
+        "icon": "/abilities/102541.webp"
+      },
+      {
+        "name": "Shadow's Embrace",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Switch to Cloak.",
+        "icon": "/abilities/102551.webp"
+      },
+      {
+        "name": "Light Explosion",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Deploy a Veil of Lightforce to heal allies upon touch and grant them a <Buff>Healing Boost</>.",
+        "icon": "/abilities/102561.webp"
+      },
+      {
+        "name": "Eternal Bond",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Perform four rapid dashes, healing allies and damaging enemies along the path.",
+        "icon": "/abilities/102571.webp"
+      },
+      {
+        "name": "From Shadow To Light",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Cloak & Dagger can inject light and dark energy into {103000}{000003}{104400} to create a Light & Dark Realm where {103000}{000003}{104400} can become <Buff>invisible</>. {104401}",
+        "icon": "/abilities/102596.webp"
+      },
+      {
+        "name": "Darkforce Cloak",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Inflict continuous damage to an enemy.",
+        "icon": "/abilities/102581.webp"
+      },
+      {
+        "name": "Dark Teleportation",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Enshroud nearby allies in the Darkforce Dimension and grant them <Buff>Phased</>, making them untargetable and invisible to enemies and granting them a <Buff>Movement Boost</>.",
+        "icon": "/abilities/102591.webp"
+      },
+      {
+        "name": "Light's Embrace",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Switch to Dagger.",
+        "icon": "/abilities/102552.webp"
+      },
+      {
+        "name": "Terror Cape",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Deploy a Veil of Darkforce to damage enemies upon touch, applying <Debuff>Blind</> to narrow their sight and <Debuff>Vulnerability</> to amplify damage received.",
+        "icon": "/abilities/102562.webp"
+      },
+      {
+        "name": "Eternal Bond",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4000",
+        "cooldown": "N/A",
+        "desc": "Perform four rapid dashes, healing allies and damaging enemies along the path.",
+        "icon": "/abilities/102571.webp"
+      },
+      {
+        "name": "From Shadow To Light",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Cloak & Dagger can inject light and dark energy into {103000}{000003}{104400} to create a Light & Dark Realm where {103000}{000003}{104400} can become <Buff>invisible</>. {104401}",
+        "icon": "/abilities/102596.webp"
+      }
+    ]
+  },
+  {
+    "id": "1026",
+    "slug": "black-panther",
+    "name": "black panther",
+    "role": "Duelist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/black-panther.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Panther's Cunning",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Deal higher damage when at low Health.",
+        "icon": "/abilities/102601.webp"
+      },
+      {
+        "name": "Subtle Step",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD {Jump} to run on a wall; perform a jump after detaching from the wall.",
+        "icon": "/abilities/102611.webp"
+      },
+      {
+        "name": "Vibranium Claws",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Slice Vibranium Claws forward.",
+        "icon": "/abilities/102631.webp"
+      },
+      {
+        "name": "Spinning Kick",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Spiral forward and attach a <Orange>Vibranium Mark</> to hit enemies.",
+        "icon": "/abilities/102641.webp"
+      },
+      {
+        "name": "Spear Toss",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Toss a Vibranium energy spear forward, creating a <Orange>Vibranium Force Field</> and attaching a <Orange>Vibranium Mark</> to enemies in its radius.",
+        "icon": "/abilities/102651.webp"
+      },
+      {
+        "name": "Spirit Rend",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Lunge forward and deal damage to enemies. <Orange>Vibranium Mark</> produces <Buff>Bonus Health</> and refreshes the ability.",
+        "icon": "/abilities/102661.webp"
+      },
+      {
+        "name": "Bast's Descent",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3300",
+        "cooldown": "N/A",
+        "desc": "Summon Bast, pouncing forward, dealing damage and attaching a <Orange>Vibranium Mark</> to hit enemies, while refreshing <Orange>Spirit Rend</>.",
+        "icon": "/abilities/102671.webp"
+      },
+      {
+        "name": "Wakandan Master",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Magik opens a portal that anchors an exit at its range limit or upon reactivation. {102600}{000001}{104900}{000001}{000003}{104800} can use the portal.",
+        "icon": "/abilities/102695.webp"
+      }
+    ]
+  },
+  {
+    "id": "1027",
+    "slug": "groot",
+    "name": "groot",
+    "role": "Vanguard",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/groot.png",
+    "team": [
+      "Guardiansofthegalaxy"
+    ],
+    "skills": [
+      {
+        "name": "Strangling Prison",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Fire a massive vine cluster that pulls nearby enemies to its center and <Debuff>Imprisons</> them.",
+        "icon": "/abilities/102761.webp"
+      },
+      {
+        "name": "Vine Strike",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch vines to attack enemies.",
+        "icon": "/abilities/102711.webp"
+      },
+      {
+        "name": "Spore Bomb",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Throw an explosive Spore Bomb that splits into multiple small explosive spores.",
+        "icon": "/abilities/102731.webp"
+      },
+      {
+        "name": "Thornlash Wall",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "2 charges, with each charge taking 6s to recharge",
+        "desc": "Target a location and grow a Thornlash Wall. When <Orange>Awakened</>, it strikes nearby enemies attacked by Groot and his allies.",
+        "icon": "/abilities/102741.webp"
+      },
+      {
+        "name": "Ironwood Wall",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Target a location and grow an Ironwood Wall. When the wall is <Orange>Awakened</>, damage dealt by Groot and nearby allies grants Groot <Buff>Bonus Health</>.",
+        "icon": "/abilities/102751.webp"
+      },
+      {
+        "name": "Flora Colossus",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Wooden walls near Groot will <Orange>Awaken</>, activating an extra effect. Press {PrimaryAttack} while building a wooden wall to continue building additional walls.",
+        "icon": "/abilities/102743.webp"
+      },
+      {
+        "name": "Friendly Shoulder",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "{104700}{000003}{102300} can ride on Groot's shoulders, receiving <Buff>Damage Reduction</>.",
+        "icon": "/abilities/102791.webp"
+      },
+      {
+        "name": "Furious Flora",
+        "type": "Normal",
+        "key": "V",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Perform a combo with his arms, and the third strike will slightly <Debuff>Launch Up</> the hit enemy airborne.",
+        "icon": "/abilities/102721.webp"
+      }
+    ]
+  },
+  {
+    "id": "1028",
+    "slug": "ultron",
+    "name": "ultron",
+    "role": "Strategist",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/ultron.png",
+    "team": [
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Encephalo-ray",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a burning energy beam.",
+        "icon": "/abilities/102831.webp"
+      },
+      {
+        "name": "Imperative: Firewall",
+        "type": "Weapon",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Summon drones to grant <Orange>Bonus Health</> to allies within range, centered on himself and the ally marked by <Buff>Imperative: Patch</>.",
+        "icon": "/abilities/102841.webp"
+      },
+      {
+        "name": "Dynamic Flight",
+        "type": "Normal",
+        "key": "Shift",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Fly quickly in the direction of movement and then enter an <Buff>Accelerated</> state.",
+        "icon": "/abilities/102861.webp"
+      },
+      {
+        "name": "Imperative: Patch",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Command a giant drone to follow an ally, constantly healing allies within its radius, with more healing for the designated ally.",
+        "icon": "/abilities/102871.webp"
+      },
+      {
+        "name": "Rage Of Ultron",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Summon Ultron Drones to fire Encephalo-Rays, damaging enemies or healing allies.",
+        "icon": "/abilities/102881.webp"
+      },
+      {
+        "name": "Nano Ray",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Iron Man uses nanotechnology to upgrade Ultron's arsenal, enhancing his <Orange>Encephalo-Ray</> to <Orange>Nano Ray</>. During its active phase, Ultron fires an unstoppable Nano Ray straight ahead that pierces through all characters, delivering massive damage to enemies while simultaneously restoring health to allies.",
+        "icon": "/abilities/102891.webp"
+      }
+    ]
+  },
+  {
+    "id": "1029",
+    "slug": "magik",
+    "name": "magik",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/magik.png",
+    "team": [
+      "X_men",
+      "Mutants"
+    ],
+    "skills": [
+      {
+        "name": "Soulsword",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Slash forward with the Soulsword.",
+        "icon": "/abilities/102911.webp"
+      },
+      {
+        "name": "Magik Slash",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Strike forward an air slash.",
+        "icon": "/abilities/102921.webp"
+      },
+      {
+        "name": "Limbo's Might",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Convert damage inflicted on enemies into <Buff>Bonus Health</> to herself.",
+        "icon": "/abilities/102931.webp"
+      },
+      {
+        "name": "Stepping Discs",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Jump through a Stepping Disc, teleporting a short distance in the direction of movement. Become <Buff>Invincible</> while teleporting.",
+        "icon": "/abilities/102941.webp"
+      },
+      {
+        "name": "Eldritch Whirl",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Spin while swinging the Soulsword after exiting a <Orange>Stepping Disc</>.",
+        "icon": "/abilities/102951.webp"
+      },
+      {
+        "name": "Demon's Rage",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Summon a Limbo demon that attacks enemies after exiting a <Orange>Stepping Disc</>.",
+        "icon": "/abilities/102961.webp"
+      },
+      {
+        "name": "Umbral Incursion",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Dash forward and <Debuff>Launch Up</> enemies airborne.",
+        "icon": "/abilities/102971.webp"
+      },
+      {
+        "name": "Darkchild",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Transform into Darkchild, gaining enhancements to all her abilities.",
+        "icon": "/abilities/102981.webp"
+      },
+      {
+        "name": "Disc Master",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Magik is on the field, {102600} can tap into Limbo to rewind a few seconds back to a previous position; after passing through Limbo, {102600} will gain <Buff>Bonus Health</> based on missing health.",
+        "icon": "/abilities/102995.webp"
+      },
+      {
+        "name": "Soulsword",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Slash forward with the Soulsword.",
+        "icon": "/abilities/102915.webp"
+      },
+      {
+        "name": "Magik Slash",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Strike forward an air slash.",
+        "icon": "/abilities/102922.webp"
+      },
+      {
+        "name": "Limbo's Might",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Convert damage inflicted on enemies into <Buff>Bonus Health</> to herself.",
+        "icon": "/abilities/102931.webp"
+      },
+      {
+        "name": "Stepping Discs",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Jump through a Stepping Disc, teleporting a short distance in the direction of movement. Become <Buff>Invincible</> while teleporting.",
+        "icon": "/abilities/102942.webp"
+      },
+      {
+        "name": "Eldritch Whirl",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Spin while swinging the Soulsword after exiting a <Orange>Stepping Disc</>.",
+        "icon": "/abilities/102952.webp"
+      },
+      {
+        "name": "Demon's Rage",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Summon a Limbo demon that attacks enemies after exiting a <Orange>Stepping Disc</>.",
+        "icon": "/abilities/102962.webp"
+      },
+      {
+        "name": "Umbral Incursion",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Dash forward and <Debuff>Launch Up</> enemies airborne.",
+        "icon": "/abilities/102973.webp"
+      },
+      {
+        "name": "Disc Master",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Magik is on the field, {102600} can tap into Limbo to rewind a few seconds back to a previous position; after passing through Limbo, {102600} will gain <Buff>Bonus Health</> based on missing health.",
+        "icon": "/abilities/102995.webp"
+      }
+    ]
+  },
+  {
+    "id": "1030",
+    "slug": "moon-knight",
+    "name": "moon knight",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/moon-knight.png",
+    "team": [
+      "Marvelknights"
+    ],
+    "skills": [
+      {
+        "name": "Crescent Dart",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash Crescent Darts forward that can bounce between enemies and <Orange>Ankhs</>, dealing damage to enemies.",
+        "icon": "/abilities/103021.webp"
+      },
+      {
+        "name": "Moon Blade",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Launch forward a Moon Blade that can bounce between enemies and <Orange>Ankhs</>, dealing damage to enemies while granting you <Buff>Bonus Health</>.",
+        "icon": "/abilities/103031.webp"
+      },
+      {
+        "name": "Ancient Ankh",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Fire an <Orange>Ankh</> to <Debuff>Knock</> enemies within its radius airborne towards the center.",
+        "icon": "/abilities/103041.webp"
+      },
+      {
+        "name": "Moonlight Hook",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Launch a frontal grappling hook that pulls Moon Knight towards it.",
+        "icon": "/abilities/103051.webp"
+      },
+      {
+        "name": "Night Glider",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Enter a gliding state.",
+        "icon": "/abilities/103052.webp"
+      },
+      {
+        "name": "Rising Leap",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Perform a double jump.",
+        "icon": "/abilities/103071.webp"
+      },
+      {
+        "name": "Hand Of Khonshu",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Open a portal that allows Khonshu to bombard enemies with his talons.",
+        "icon": "/abilities/103061.webp"
+      },
+      {
+        "name": "Full Moon",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Cloak & Dagger can inject light and dark energy into {103000}{000003}{104400} to create a Light & Dark Realm where {103000}{000003}{104400} can become <Buff>invisible</>. {104401}",
+        "icon": "/abilities/103091.webp"
+      },
+      {
+        "name": "Triple Eclipse",
+        "type": "Normal",
+        "key": "V",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Perform a combo with his truncheon, and the third strike will slightly <Debuff>Launch Up</> enemies.",
+        "icon": "/abilities/103001.webp"
+      }
+    ]
+  },
+  {
+    "id": "1031",
+    "slug": "luna-snow",
+    "name": "luna snow",
+    "role": "Strategist",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/luna-snow.png",
+    "team": [
+      "Agentsofatlas"
+    ],
+    "skills": [
+      {
+        "name": "Smooth Skate",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Keep moving forward to start ice skating and enable higher jumps.",
+        "icon": "/abilities/103111.webp"
+      },
+      {
+        "name": "Light & Dark Ice",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire ice shots that damage enemies or heal allies.",
+        "icon": "/abilities/103131.webp"
+      },
+      {
+        "name": "Ice Arts",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Fire ice shards for a short duration, damaging enemies or healing allies while restoring her own Health.",
+        "icon": "/abilities/103141.webp"
+      },
+      {
+        "name": "Absolute Zero",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Cast a clump of ice to <Debuff>Freeze</> the hit enemy and restore Health. Landing a hit grants <Buff>Bonus Health</>.",
+        "icon": "/abilities/103151.webp"
+      },
+      {
+        "name": "Share The Stage",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Attach <Orange>Idol Aura</> to an ally. Allies with <Orange>Idol Aura</> also restore Health when Luna Snow is healing others.",
+        "icon": "/abilities/103161.webp"
+      },
+      {
+        "name": "Fate Of Both Worlds",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "5000",
+        "cooldown": "N/A",
+        "desc": "Take center stage and start dancing! Toggle between two performances: Heal allies or grant them <Buff>Damage Boost</>.",
+        "icon": "/abilities/103171.webp"
+      },
+      {
+        "name": "Icy Disco",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Luna Snow infuses ice energy into {104700}, who then can tap into the ice energy to power up abilities at will.",
+        "icon": "/abilities/103192.webp"
+      },
+      {
+        "name": "Frozen Chi",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Iron Fist channels the Chi of Shou-Lao into Luna Snow, transforming her ice power into a Chi-infused frosty ring that radiates from her. This ring can launch up enemies with chilling damage and applies a slowing effect, while simultaneously healing her allies.",
+        "icon": "/abilities/103193.webp"
+      },
+      {
+        "name": "Cryo Heart",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Automatically restore Health when casting <Orange>Ice Arts</> or <Orange>Absolute Zero</>.",
+        "icon": "/abilities/103191.webp"
+      },
+      {
+        "name": "Winter's Chill",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "With the blessing of Luna Snow, Hawkeye is imbued with the ice energy, allowing him to fire <Orange>Ice Arrows</> that pierce through enemies! If an <Orange>Ice Arrow</> travels beyond a certain distance, it <Debuff>Stuns</> any enemy it hits. If it strikes before reaching that distance, it instead <Debuff>Slows</> the target. The farther the <Orange>Ice Arrow</> flies, the greater its damage.",
+        "icon": "/abilities/103194.webp"
+      }
+    ]
+  },
+  {
+    "id": "1032",
+    "slug": "squirrel-girl",
+    "name": "squirrel girl",
+    "role": "Duelist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/squirrel-girl.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Burst Acorn",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot bouncing Burst Acorns.",
+        "icon": "/abilities/103211.webp"
+      },
+      {
+        "name": "Tail Bounce",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Rocket upwards with a bounce of her tail.",
+        "icon": "/abilities/103231.webp"
+      },
+      {
+        "name": "Mammal Bond",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Reload Burst Acorns and can use an ability without cooldown once in a short duration.",
+        "icon": "/abilities/103241.webp"
+      },
+      {
+        "name": "Squirrel Blockade",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Launch an acorn to unleash Squirrel Guards, <Debuff>Imprisoning</> the first hit enemy.",
+        "icon": "/abilities/103221.webp"
+      },
+      {
+        "name": "Unbeatable Squirrel Tsunami",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Summon a horde of squirrels to charge forward, dealing damage while bouncing against structures.",
+        "icon": "/abilities/103251.webp"
+      },
+      {
+        "name": "Squirrel Support",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": null,
+        "icon": "/abilities/103281.webp"
+      },
+      {
+        "name": "Webbed Acorn",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Spider-Man gives Squirrel Girl a web bomb. She can launch it to unleash an explosion upon contact with the environment or an enemy, briefly <Debuff>Immobilizing</> and damaging enemies caught in the blast.",
+        "icon": "/abilities/103291.webp"
+      }
+    ]
+  },
+  {
+    "id": "1033",
+    "slug": "black-widow",
+    "name": "black widow",
+    "role": "Duelist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/black-widow.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Rapid Fire",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Strike with the enhanced electric batons.",
+        "icon": "/abilities/103301.webp"
+      },
+      {
+        "name": "Edge Dancer",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Unleash a spinning kick to <Debuff>Launch Up</> enemies. Landing the hit will allow her to zip to the target with a grappling hook for a second kick.",
+        "icon": "/abilities/103331.webp"
+      },
+      {
+        "name": "Straight Shooter",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash the Spinning Kick to forcefully repel nearby foes. Afterward, target an enemy to deploy a grappling hook, drawing yourself towards them and launching them up upon impact.",
+        "icon": "/abilities/103321.webp"
+      },
+      {
+        "name": "Fleet Foot",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Dash forward and enable a powerful jump.",
+        "icon": "/abilities/103341.webp"
+      },
+      {
+        "name": "Electro-plasma Explosion",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Switch the Red Room Rifle to Destruction mode and unleash an electro-plasma blast, damaging enemies within range and inflicting them with <Debuff>Vulnerability</>. Additionally, leave a plasma pool on the ground to <Debuff>Slow</> nearby enemies.",
+        "icon": "/abilities/103351.webp"
+      },
+      {
+        "name": "Red Room Rifle",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a barrage of bullets with the Red Room Rifle.",
+        "icon": "/abilities/103311.webp"
+      },
+      {
+        "name": "Supersensory Hunt",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hawkeye can share his Hunter's Sight with Black Widow, enabling her to catch sight of and damage afterimages of enemies.",
+        "icon": "/abilities/103382.webp"
+      },
+      {
+        "name": "LION'S LAUNCH",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Attack with the Red Room Rifle.",
+        "icon": "/abilities/103391.webp"
+      },
+      {
+        "name": "FEROCIOUS THROW",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Switch the Red Room Rifle to Sniper mode to fire high-energy rounds.",
+        "icon": "/abilities/103392.webp"
+      },
+      {
+        "name": "FLEET FOOT",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Dash forward.",
+        "icon": "/abilities/103343.webp"
+      },
+      {
+        "name": "LION DANCER",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a spinning kick to <Debuff>Launch Up</> enemies and cause them to lose the ball. This ability can only be used when not in possession of the ball.",
+        "icon": "/abilities/103334.webp"
+      },
+      {
+        "name": "Pulse Rifle",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "5s",
+        "desc": "The Punisher upgrades Black Widow's arsenal, adding a Pulse Mode to her Red Room Rifle. While the ability is active, using <Orange>Straight Shooter</> fires a pulse beam that deals piercing damage.",
+        "icon": "/abilities/103383.webp"
+      }
+    ]
+  },
+  {
+    "id": "1034",
+    "slug": "iron-man",
+    "name": "iron man",
+    "role": "Duelist",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/iron-man.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Repulsor Blast",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire nano pulse cannons forward.",
+        "icon": "/abilities/103411.webp"
+      },
+      {
+        "name": "Unibeam",
+        "type": "Weapon",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire a unibeam forward.",
+        "icon": "/abilities/103421.webp"
+      },
+      {
+        "name": "Hyper-velocity",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "15/s",
+        "cooldown": "N/A",
+        "desc": "Activate <Orange>Hyper-Velocity</> state for swift forward flight.",
+        "icon": "/abilities/103431.webp"
+      },
+      {
+        "name": "Micro-missile Barrage",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "When <Orange>Hyper-Velocity</> or <Orange>Armor Overdrive</> is used, Iron Man can launch a missile bombardment.",
+        "icon": "/abilities/103441.webp"
+      },
+      {
+        "name": "Armor Overdrive",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Activate <Orange>Armor Overdrive</> state, enhancing damage of <Orange>Repulsor Blast</> and <Orange>Unibeam</>, while also granting <Buff>Bonus Health</>.",
+        "icon": "/abilities/103451.webp"
+      },
+      {
+        "name": "Invincible Pulse Cannon",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Fire a devastating pulse cannon in the targeted direction, delivering catastrophic damage to the targeted area upon impact.",
+        "icon": "/abilities/103461.webp"
+      },
+      {
+        "name": "Gamma Overdrive",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which, will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/103454.webp"
+      },
+      {
+        "name": "Nano Tech",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Iron Man uses nanotechnology to upgrade Ultron's arsenal, enhancing his <Orange>Encephalo-Ray</> to <Orange>Nano Ray</>. During its active phase, Ultron fires an unstoppable Nano Ray straight ahead that pierces through all characters, delivering massive damage to enemies while simultaneously restoring health to allies.",
+        "icon": "/abilities/103492.webp"
+      }
+    ]
+  },
+  {
+    "id": "1035",
+    "slug": "venom",
+    "name": "venom",
+    "role": "Vanguard",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/venom.png",
+    "team": [
+      "Guardiansofthegalaxy",
+      "Web_warriors",
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Alien Biology",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "PRESS{Jump} to wall crawl, and while crawling, PRESS{PrimaryAttack}to sprint.",
+        "icon": "/abilities/103501.webp"
+      },
+      {
+        "name": "Dark Predation",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash tentacles forward to attack enemies.",
+        "icon": "/abilities/103521.webp"
+      },
+      {
+        "name": "Frenzied Arrival",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Dash to the target location from a certain height. Upon landing, damage nearby enemies, <Debuff>Launching Them Up</> towards the landing point.",
+        "icon": "/abilities/103531.webp"
+      },
+      {
+        "name": "Cellular Corrosion",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash tentacles to <Debuff>Slow</> enemies within reach. Enemies unable to break free in time will suffer damage.",
+        "icon": "/abilities/103541.webp"
+      },
+      {
+        "name": "Venom Swing",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Launch webbing forward, allowing for a singular swing in the desired direction.",
+        "icon": "/abilities/103551.webp"
+      },
+      {
+        "name": "Symbiotic Resilience",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Generate <Buff>Bonus Health</> against damage. The lower Venom's Health, the greater the <Buff>Bonus Health</> generated.",
+        "icon": "/abilities/103561.webp"
+      },
+      {
+        "name": "Feast Of The Abyss",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2500",
+        "cooldown": "N/A",
+        "desc": "Burrow underground for free movement. After a duration or by pressing {PrimaryAttack}, devour enemies above to deal damage based on the enemy's current health and generate equivalent <Buff>Bonus Health</>.",
+        "icon": "/abilities/103571.webp"
+      },
+      {
+        "name": "Touch Of Klyntar",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Venom shares a part of his symbiotes with {103600}{000003}{104200}, activating their symbiote abilities. {103600}{000003}{104200} can convert the symbiotes into explosive spikes that inflict harm on nearby enemies and relentlessly drive them back.",
+        "icon": "/abilities/103581.webp"
+      },
+      {
+        "name": "Healing Tendrils",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Venom shares a part of his symbiotes with Jeff the Land Shark. When using the Team-Up Ability in either his normal state or during <Orange>Hide and Seek</>, Jeff extends symbiote tendrils to nearby allies, linking with them. Linked teammates receive <Buff>continuous healing</>. When the ability reaches its maximum duration, all linked allies gain a large burst of healing, with excess healing being converted into <Buff>Bonus Health</>.",
+        "icon": "/abilities/103582.webp"
+      }
+    ]
+  },
+  {
+    "id": "1036",
+    "slug": "spider-man",
+    "name": "spider-man",
+    "role": "Duelist",
+    "difficulty": "5",
+    "image": "/rivals/heroes/card/spider-man.png",
+    "team": [
+      "Web_warriors"
+    ],
+    "skills": [
+      {
+        "name": "Thwip And Flip",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Perform a double jump.",
+        "icon": "/abilities/103601.webp"
+      },
+      {
+        "name": "Spider-power",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Swing fists forward to strike, dealing extra damage to the enemy with a <Orange>Spider-Tracer</>.",
+        "icon": "/abilities/103611.webp"
+      },
+      {
+        "name": "Web-cluster",
+        "type": "Weapon",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot a Web-Cluster that deals damage and attaches a <Orange>Spider-Tracer</> to the hit enemy.",
+        "icon": "/abilities/103621.webp"
+      },
+      {
+        "name": "Get Over Here!",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Shoot webbing to reel in the hit enemy. If the enemy is tagged with a <Orange>Spider-Tracer</>, Spider-Man will get pulled to them instead.",
+        "icon": "/abilities/103631.webp"
+      },
+      {
+        "name": "Spectacular Spin",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Launch Web-Clusters all around to damage and <Debuff>Stun</> enemies.",
+        "icon": "/abilities/103651.webp"
+      },
+      {
+        "name": "Spider-sense",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Give a warning of enemies that have been around.",
+        "icon": "/abilities/103662.webp"
+      },
+      {
+        "name": "Web-swing",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot a strand of webbing to swing.",
+        "icon": "/abilities/103641.webp"
+      },
+      {
+        "name": "Wall Crawl",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "PRESS {Jump} to crawl on vertical surfaces, and PRESS {PrimaryAttack} to run on them.",
+        "icon": "/abilities/103671.webp"
+      },
+      {
+        "name": "Amazing Combo",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "2s",
+        "desc": "Launch an enemy upward, dealing extra damage to the enemy with a <Orange>Spider-Tracer</>.",
+        "icon": "/abilities/103613.webp"
+      },
+      {
+        "name": "Suit Expulsion",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Venom shares a part of his symbiotes with {103600}{000003}{104200}, activating their symbiote abilities. {103600}{000003}{104200} can convert the symbiotes into explosive spikes that inflict harm on nearby enemies and relentlessly drive them back.",
+        "icon": "/abilities/103692.webp"
+      },
+      {
+        "name": "Extra Web-fluid",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Spider-Man gives Squirrel Girl a web bomb. She can launch it to unleash an explosion upon contact with the environment or an enemy, briefly <Debuff>Immobilizing</> and damaging enemies caught in the blast.",
+        "icon": "/abilities/103691.webp"
+      }
+    ]
+  },
+  {
+    "id": "1037",
+    "slug": "magneto",
+    "name": "magneto",
+    "role": "Vanguard",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/magneto.png",
+    "team": [
+      "X_men",
+      "Mutants",
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Magnetic Descent",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hold {Jump} to fall slowly.",
+        "icon": "/abilities/103702.webp"
+      },
+      {
+        "name": "Iron Volley",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire a volley of magnetic orbs forward. The range of the resulting explosion increases based on distance flown.",
+        "icon": "/abilities/103711.webp"
+      },
+      {
+        "name": "Mag-cannon",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "No cooldown, but the ability can only be activated when the Iron Ring has at least one charge",
+        "desc": "Convert the iron rings on Magneto's back into a Mag-Cannon and launch a metallic mass forward. Higher stacks of rings increase damage, and full stacks <Debuff>Knock Back</> enemies.",
+        "icon": "/abilities/103721.webp"
+      },
+      {
+        "name": "Metallic Curtain",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "65/s",
+        "cooldown": "3s",
+        "desc": "Change the magnetic field around to form a metallic curtain, blocking all incoming <Orange>Projectiles</>.",
+        "icon": "/abilities/103731.webp"
+      },
+      {
+        "name": "Metal Bulwark",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s, and sharing cooldown with Iron Bulwark",
+        "desc": "Conjure a metal shield around a chosen ally. Damage taken will transform into rings on Magneto's back.",
+        "icon": "/abilities/103741.webp"
+      },
+      {
+        "name": "Meteor M",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Draw in all materials around to forge an iron meteor that deals massive damage upon impact. Absorbing enemy <Orange>Projectiles</> can enhance the meteor's power, yet overloading will cause it to self-destruct.",
+        "icon": "/abilities/103761.webp"
+      },
+      {
+        "name": "Metallic Fusion",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Scarlet Witch can infuse Chaos Energy into Magneto to enchant his greatsword. Upon receiving the Chaos Energy, Magneto can unleash its full force, striking down enemies with his enchanted greatsword.",
+        "icon": "/abilities/103791.webp"
+      },
+      {
+        "name": "Iron Bulwark",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "12s, and sharing cooldown with Metal Bulwark",
+        "desc": "Conjure an iron shield around himself. Damage taken will transform into rings on Magneto's back.",
+        "icon": "/abilities/103743.webp"
+      },
+      {
+        "name": "Magnetic Resonance",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Emma Frost can form a mental link with Magneto and Psylocke, calling on her to create illusory projections. When together, Emma Frost will create a Mental Projection of Magneto and Psylocke, forming a Duplicate Illusion in the enemy's perspective that confuses foes by moving and casting abilities on its own.",
+        "icon": "/abilities/103792.webp"
+      }
+    ]
+  },
+  {
+    "id": "1038",
+    "slug": "scarlet-witch",
+    "name": "scarlet witch",
+    "role": "Duelist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/scarlet-witch.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Telekinesis",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD {Jump} to fall slowly.",
+        "icon": "/abilities/103871.webp"
+      },
+      {
+        "name": "Chaos Control",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash Chaos Magic on enemies to deal damage and restore <Orange>Chaos Energy</>",
+        "icon": "/abilities/103811.webp"
+      },
+      {
+        "name": "Chthonian Burst",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Consume <Orange>Chaos Energy</> to fire explosive magic missiles, damaging enemies.",
+        "icon": "/abilities/103821.webp"
+      },
+      {
+        "name": "Dark Seal",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Land a hit on a target or the scene, or press again to generate a Force Field that periodically <Debuff>Stuns</> enemies within range.",
+        "icon": "/abilities/103831.webp"
+      },
+      {
+        "name": "Mystic Projection",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Enter the <Orange>Phased</> state for free-flight. Press {Ability2} to exit early.",
+        "icon": "/abilities/103841.webp"
+      },
+      {
+        "name": "Reality Erasure",
+        "type": "Normal",
+        "key": "Q",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Engage in free-flight while charging energy, then unleash it to deal massive damage.",
+        "icon": "/abilities/103851.webp"
+      },
+      {
+        "name": "Chaotic Bond",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Scarlet Witch can infuse Chaos Energy into Magneto to enchant his greatsword. Upon receiving the Chaos Energy, Magneto can unleash its full force, striking down enemies with his enchanted greatsword.",
+        "icon": "/abilities/103881.webp"
+      },
+      {
+        "name": "Sorcery Surge",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Doctor Strange shares his arcane mastery, replacing Scarlet Witch's <Orange>Chthonian Burst</> with <Orange>Mystic Burst</> upon activation. Hold down the attack button to unleash a rapid, relentless salvo of magical missiles in the target direction.",
+        "icon": "/abilities/103891.webp"
+      }
+    ]
+  },
+  {
+    "id": "1039",
+    "slug": "thor",
+    "name": "thor",
+    "role": "Vanguard",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/thor.png",
+    "team": [
+      "Avengers",
+      "Godsofasgard"
+    ],
+    "skills": [
+      {
+        "name": "Thorforce",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Consume <Orange>Thorforce</> to gain <Buff>Bonus Health</>. Landing <Orange>Mjölnir Bash</> on an enemy instantly recharges <Orange>Thorforce</>.",
+        "icon": "/abilities/103901.webp"
+      },
+      {
+        "name": "Mjölnir Bash",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Wield Mjölnir to strike enemies. When <Orange>Awakened</>, Thor can launch lightning arc waves to deal damage.",
+        "icon": "/abilities/103911.webp"
+      },
+      {
+        "name": "Hammer Throw",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Throw Mjolnir forward which then returns. Restore <Orange>Thorforce</> upon hit.",
+        "icon": "/abilities/103921.webp"
+      },
+      {
+        "name": "Lightning Realm",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Summon lightning to restore <Orange>Thorforce</> based on the number of hit enemies.",
+        "icon": "/abilities/103931.webp"
+      },
+      {
+        "name": "Storm Surge",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD to spin Mjölnir before dashing forward and <Debuff>Knocking Back</> enemies.",
+        "icon": "/abilities/103941.webp"
+      },
+      {
+        "name": "Awakening Rune",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Consume <Orange>Thorforce</> to enter the <Orange>Awakened</> state, granting <Buff>Bonus Health</> and enhancing Mjölnir Bash.",
+        "icon": "/abilities/103951.webp"
+      },
+      {
+        "name": "God Of Thunder",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Soar upwards and smite the ground after charging for a duration, inflicting damage on enemies within range.",
+        "icon": "/abilities/103961.webp"
+      },
+      {
+        "name": "Odinson Reborn",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Hela lands a final hit in defeating an enemy, she can instantly resurrect {101600}{000003}{103900} in the respawn phase, or grant them <Buff>Bonus Health</> if they are still alive.",
+        "icon": "/abilities/103902.webp"
+      },
+      {
+        "name": "Thunderous Deity",
+        "type": "Passive",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Thor infuses <Orange>Thorforce</> into {101500}{000003}{102200}, granting them an electrifying enhancement. {101501}{102201}",
+        "icon": "/abilities/103981.webp"
+      }
+    ]
+  },
+  {
+    "id": "1040",
+    "slug": "mister-fantastic",
+    "name": "mister fantastic",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/mister-fantastic.png",
+    "team": [
+      "Fantasticfour"
+    ],
+    "skills": [
+      {
+        "name": "Elastic Strength",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Using abilities generates <Orange>Elasticity</>. Reaching full <Orange>Elasticity</> triggers an Inflated state that grants <Buff>Shield</> and enhanced damage.",
+        "icon": "/abilities/104001.webp"
+      },
+      {
+        "name": "Stretch Punch",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Stretch out a forward punch to attack enemies.",
+        "icon": "/abilities/104011.webp"
+      },
+      {
+        "name": "Distended Grip",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Extend arms forward to entangle an enemy, then press {PrimaryAttack} to pull the hit enemy toward you, or select and yank another enemy, <Debuff>knocking them airborne</> against each other.",
+        "icon": "/abilities/104031.webp"
+      },
+      {
+        "name": "Flexible Elongation",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Gain a <Buff>Shield</>, select a target, and dash towards them, dealing damage to enemies and granting a <Buff>Shield</> to allies.",
+        "icon": "/abilities/104041.webp"
+      },
+      {
+        "name": "Reflexive Rubber",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Stretch body to absorb damage before launching stored damage in the targeted direction.",
+        "icon": "/abilities/104051.webp"
+      },
+      {
+        "name": "Brainiac Bounce",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Leap upward and smash the ground, <Debuff>slowing</> enemies within range. Can leap again upon landing a hit.",
+        "icon": "/abilities/104061.webp"
+      },
+      {
+        "name": "Wedded Harmony",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "The Invisible Woman taps into her powers, channeling Psionic Might to fortify the entire Fantastic Four team. This formidable force bolsters Human Torch, The Thing, and Mister Fantastic, granting damage resistance. Once activated, they can continually generate <Buff>Bonus Health</>, making up for lost Health.",
+        "icon": "/abilities/104091.webp"
+      }
+    ]
+  },
+  {
+    "id": "1041",
+    "slug": "winter-soldier",
+    "name": "winter soldier",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/winter-soldier.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Ceaseless Charge",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Roterstern reloads automatically while the bionic arm is in action, granting the Winter Soldier <Buff>Bonus Health</>.",
+        "icon": "/abilities/104101.webp"
+      },
+      {
+        "name": "Roterstern",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire explosive rounds with his blaster, Roterstern, damaging the target hit and enemies behind them.",
+        "icon": "/abilities/104121.webp"
+      },
+      {
+        "name": "Bionic Hook",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Charge up and launch a hook with his bionic arm, reeling in the first target hit and enemies lurking behind.",
+        "icon": "/abilities/104131.webp"
+      },
+      {
+        "name": "Trooper's Fist",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Dash forward, seizing enemies along the path, and <Debuff>Launch Up</> enemies in front at the end of the dash.",
+        "icon": "/abilities/104141.webp"
+      },
+      {
+        "name": "Tainted Voltage",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Charge up and launch a powerful electrical punch with the bionic arm in the target direction, dealing damage to enemies within range and <Debuff>Slowing</> them. This ability can <Debuff>Knock Down</> flying heroes.",
+        "icon": "/abilities/104151.webp"
+      },
+      {
+        "name": "Kraken Impact",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Leap high, then dash forward and slam down with the bionic arm, dealing damage to enemies in range, marking them for <Orange>Culling</>. Marked enemies will perish instantly if their health falls below a certain threshold, recharging the bionic arm for another <Orange>Kraken Impact</> within a short period.",
+        "icon": "/abilities/104161.webp"
+      },
+      {
+        "name": "Infinite Grit",
+        "type": "Passive",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Rocket Raccoon throws an Ammo Overload Device in the target direction. Upon entering the device's range, {101400} receive the buffs of <Buff>Infinite Ammo</> and <Buff>Faster Firing</>.",
+        "icon": "/abilities/104100.webp"
+      },
+      {
+        "name": "Stellar Impact",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Inspired by Captain America's resolve, Winter Soldier can leap to the aid of a designated ally, slamming the ground with his mechanical arm to damage nearby foes and grant <Buff>Bonus Health</> to allies within range. Captain America and Winter Soldier can interact with each other once both parties confirm. The duo then collides and unleashes a shockwave that damages and <Debuff>slows</> enemies.",
+        "icon": "/abilities/104181.webp"
+      }
+    ]
+  },
+  {
+    "id": "1042",
+    "slug": "peni-parker",
+    "name": "peni parker",
+    "role": "Vanguard",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/peni-parker.png",
+    "team": [
+      "Web_warriors"
+    ],
+    "skills": [
+      {
+        "name": "Wall Crawl",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD {Jump} to crawl on vertical surfaces.",
+        "icon": "/abilities/104202.webp"
+      },
+      {
+        "name": "Cyber-web Cluster",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch forward a Cyber-Web Cluster.",
+        "icon": "/abilities/104221.webp"
+      },
+      {
+        "name": "Cyber-web Snare",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "3s",
+        "desc": "Cast futuristic webbing that <Debuff>Immobilizes</> enemies or creates a <Orange>Cyber-Web</>. While in the <Orange>Cyber-Web</>, gain <Buff>Healing Over Time</> and a <Buff>Movement Boost</>. Excess healing converts into <Buff>Bonus Health</>.",
+        "icon": "/abilities/104231.webp"
+      },
+      {
+        "name": "Bionic Spider-nest",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Generate a <Orange>Bionic Spider-Nest</> at a targeted area, periodically spawning <Orange>Spider-Drones</> and creating <Orange>Cyber-Webs</>. While in the <Orange>Cyber-Web</>, gain <Buff>Healing Over Time</> and a <Buff>Movement Boost</>. Excess healing converts into <Buff>Bonus Health</>.",
+        "icon": "/abilities/104241.webp"
+      },
+      {
+        "name": "Arachno-mine",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "4 charges, with each charge taking 4s to recharge",
+        "desc": "Deploy <Orange>Arachno-Mines</> that can be concealed within the confines of a <Orange>Cyber-Web</>.",
+        "icon": "/abilities/104251.webp"
+      },
+      {
+        "name": "Cyber-bond",
+        "type": "Normal",
+        "key": "F",
+        "energy_cost": "N/A",
+        "cooldown": "3s",
+        "desc": "Shoot a web strand that links to the targeted area or <Orange>Cyber-Web</>. If stretched too far, it will trigger a pullback.",
+        "icon": "/abilities/104261.webp"
+      },
+      {
+        "name": "Spider-sweeper",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Enhance the SP//dr suit, <Debuff>Launching Up</> enemies in its path and deploying <Orange>Arachno-Mines</>, <Orange>Spider-Drones</>, and <Orange>Cyber-Webs</> repeatedly.",
+        "icon": "/abilities/104271.webp"
+      },
+      {
+        "name": "Armor Expulsion",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Venom shares a part of his symbiotes with {103600}{000003}{104200}, activating their symbiote abilities. {103600}{000003}{104200} can convert the symbiotes into explosive spikes that inflict harm on nearby enemies and relentlessly drive them back.",
+        "icon": "/abilities/104281.webp"
+      },
+      {
+        "name": "Armored Spider-nest",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Rocket Raccoon upgrades his <Orange>B.R.B.</> by integrating the <Orange>Bionic Spider-Nest</> effect. Now, the beacon creates <Orange>Cyber-Webs</> when placed and periodically spawns <Orange>Arachno-Mines</> and <Orange>Spider-Drones</>. Peni Parker can additionally deploy an <Orange>Armored Spider-Nest</> that periodically drops <Orange>Armor Packs</> that grant <Buff>Bonus Health</>.",
+        "icon": "/abilities/104242.webp"
+      }
+    ]
+  },
+  {
+    "id": "1043",
+    "slug": "star-lord",
+    "name": "star-lord",
+    "role": "Duelist",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/star-lord.png",
+    "team": [
+      "Guardiansofthegalaxy"
+    ],
+    "skills": [
+      {
+        "name": "Element Guns",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Shoot enemies with dual Element Guns.",
+        "icon": "/abilities/104311.webp"
+      },
+      {
+        "name": "Stellar Shift",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Dodge in the direction of movement and swiftly reload. Become <Buff>Unstoppable</> and <Buff>Invincible</> while dodging.",
+        "icon": "/abilities/104321.webp"
+      },
+      {
+        "name": "Rocket Propulsion",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "300/s",
+        "cooldown": "N/A",
+        "desc": "Consume energy to gain a <Buff>Movement Boost</> and soar forward.",
+        "icon": "/abilities/104331.webp"
+      },
+      {
+        "name": "Galactic Legend",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3400",
+        "cooldown": "N/A",
+        "desc": "Engage in free-flight and lock onto enemies in sight.",
+        "icon": "/abilities/104341.webp"
+      },
+      {
+        "name": "Blaster Barrage",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Fire a frenzy of shots, causing damage to enemies within range.",
+        "icon": "/abilities/104332.webp"
+      },
+      {
+        "name": "Leader's Soul",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "120s",
+        "desc": "Adam Warlock enhances the rebirth power of {104300}{000003}{102000}, granting them the power of cocooned revival.",
+        "icon": "/abilities/104371.webp"
+      },
+      {
+        "name": "LION'S LAUNCH",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch the ball forward with incredible speed.",
+        "icon": "/abilities/104391.webp"
+      },
+      {
+        "name": "FEROCIOUS THROW",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hurl the ball with fierce intensity. Charging longer enhances both speed and distance.",
+        "icon": "/abilities/104394.webp"
+      },
+      {
+        "name": "ROCKET PROPULSION",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "300/s",
+        "cooldown": "N/A",
+        "desc": "Consume energy to gain a <Buff>Movement Boost</> and soar forward.",
+        "icon": "/abilities/104392.webp"
+      },
+      {
+        "name": "LION LEAP",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire bullets in all directions, launching up nearby enemies and causing them to lose the ball. This ability can only be used when not in possession of the ball.",
+        "icon": "/abilities/104393.webp"
+      },
+      {
+        "name": "CELESTIAL LEAP",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Dodge in the direction of movement and swiftly reload. Become <Buff>Unstoppable</> and <Buff>Invincible</> while dodging.",
+        "icon": "/abilities/104381.webp"
+      }
+    ]
+  },
+  {
+    "id": "1045",
+    "slug": "namor",
+    "name": "namor",
+    "role": "Duelist",
+    "difficulty": "2",
+    "image": "/rivals/heroes/card/namor.png",
+    "team": [
+      "Avengers",
+      "Mutants",
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Trident Of Neptune",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Throw the trident forward, reducing <Orange>Aquatic Dominion's</> cooldown upon enemy impact. Critical hits cause <Orange>Monstro Spawn</> to enter a berserk state, gaining increased Attack Speed.",
+        "icon": "/abilities/104521.webp"
+      },
+      {
+        "name": "Wrath Of The Seven Seas",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "Launch the trident forward to damage nearby enemies, then direct all <Orange>Monstro Spawn</> to perform an enhanced attack on the nearest hit enemy. When the trident hits an enemy, <Orange>Monstro Spawn</> to enter a berserk state, gaining increased Attack Speed.",
+        "icon": "/abilities/104531.webp"
+      },
+      {
+        "name": "Blessing Of The Deep",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Summon a protective barrier while flying upwards.",
+        "icon": "/abilities/104541.webp"
+      },
+      {
+        "name": "Aquatic Dominion",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Summon a <Orange>Monstro Spawn</> that can autonomously attack enemies.",
+        "icon": "/abilities/104551.webp"
+      },
+      {
+        "name": "Horn Of Proteus",
+        "type": "Normal",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Summon Giganto to leap atop enemies within range, disabling their mobility abilities.",
+        "icon": "/abilities/104561.webp"
+      },
+      {
+        "name": "Frozen Spawn",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Luna Snow infuses ice energy into {104700}, who then can tap into the ice energy to power up abilities at will.",
+        "icon": "/abilities/104555.webp"
+      },
+      {
+        "name": "Tide Fall",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "HOLD {Jump} to fall slowly.",
+        "icon": "/abilities/104542.webp"
+      },
+      {
+        "name": "Gamma Monstro",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Hulk charges Namor with gamma radiation. When Namor receives the radiation, he will summon an extra <Orange>Gamma Monstro</> which will continuously fire gamma rays at locked-on enemies. The longer the rays hit, the higher the damage.",
+        "icon": "/abilities/104591.webp"
+      }
+    ]
+  },
+  {
+    "id": "1046",
+    "slug": "adam-warlock",
+    "name": "adam warlock",
+    "role": "Strategist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/adam-warlock.png",
+    "team": [
+      "Guardiansofthegalaxy"
+    ],
+    "skills": [
+      {
+        "name": "Regenerative Cocoon",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "105s",
+        "desc": "Once his body perishes, Adam can freely move as a soul and reforge his body at a chosen spot.",
+        "icon": "/abilities/104601.webp"
+      },
+      {
+        "name": "Quantum Magic",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch quantum energy to deal damage. Critical hits reduce the cooldown of <Orange>Avatar Life Stream</>.",
+        "icon": "/abilities/104611.webp"
+      },
+      {
+        "name": "Cosmic Cluster",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Gather quantum energy into a cluster and then swiftly launch it at the enemy.",
+        "icon": "/abilities/104621.webp"
+      },
+      {
+        "name": "Avatar Life Stream",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "2 charges, with each charge taking 6s to recharge; when a critical hit lands on an enemy, reduce the cooldown time of Avatar Life Stream by 1s.",
+        "desc": "Target an ally for a bouncing stream of healing energy, which also heals himself upon casting; self-targets if no ally is selected.",
+        "icon": "/abilities/104641.webp"
+      },
+      {
+        "name": "Soul Bond",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "40s",
+        "desc": "Forge a soul bond with allies, granting <Buff>Healing Over Time</> and distributing damage taken across the bond.",
+        "icon": "/abilities/104651.webp"
+      },
+      {
+        "name": "Karmic Revival",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "5000",
+        "cooldown": "N/A",
+        "desc": "Awaken the karma of allies to revive them. Allies revived have lower health but enjoy a brief period of invincibility.",
+        "icon": "/abilities/104661.webp"
+      },
+      {
+        "name": "Soul Perseverance",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Adam Warlock enhances the rebirth power of {104300}{000003}{102000}, granting them the power of cocooned revival.",
+        "icon": "/abilities/104600.webp"
+      }
+    ]
+  },
+  {
+    "id": "1047",
+    "slug": "jeff-the-land-shark",
+    "name": "jeff the land shark",
+    "role": "Strategist",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/jeff-the-land-shark.png",
+    "team": [
+      "Avengers"
+    ],
+    "skills": [
+      {
+        "name": "Joyful Splash",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a splash that damages enemies and heals allies.",
+        "icon": "/abilities/104711.webp"
+      },
+      {
+        "name": "Aqua Burst",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "3 charges, with each charge taking 3s to recharge",
+        "desc": "Launch a high-speed water sphere that bursts upon impact, dealing damage to enemies within range. Direct hits <Debuff>Launch Up</> enemies.",
+        "icon": "/abilities/104721.webp"
+      },
+      {
+        "name": "Healing Bubble",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "3 charges, with each charge taking 6s to recharge",
+        "desc": "Spit a bubble that heals the ally who collects it, granting them <Buff>Healing</> and <Buff>Movement Boost</>.",
+        "icon": "/abilities/104751.webp"
+      },
+      {
+        "name": "Hide And Seek",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "20/s",
+        "cooldown": "N/A",
+        "desc": "Dive into the scene with only his dorsal fin exposed, granting himself a <Buff>Movement Boost</>. Jeff can heal while submerged and gains the wall-crawl ability.",
+        "icon": "/abilities/104761.webp"
+      },
+      {
+        "name": "It's Jeff!",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4500",
+        "cooldown": "N/A",
+        "desc": "Deep dive into the scene and resurface to swallow both enemies and allies within range, activating <Orange>Hide and Seek</> for a brief duration before ejecting the swallowed heroes forward. Excess healing converts to <Buff>Bonus Health</>.",
+        "icon": "/abilities/104771.webp"
+      },
+      {
+        "name": "Oblivious Cuteness",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Reduce damage taken from critical hits.",
+        "icon": "/abilities/104701.webp"
+      },
+      {
+        "name": "Frozen Spitball",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Luna Snow infuses ice energy into {104700}, who then can tap into the ice energy to power up abilities at will.",
+        "icon": "/abilities/104782.webp"
+      },
+      {
+        "name": "New Friends",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "{104700}{000003}{102300} can ride on Groot's shoulders, receiving <Buff>Damage Reduction</>.",
+        "icon": "/abilities/104781.webp"
+      },
+      {
+        "name": "Snow Splash",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash a damaging splash. This ability can paint the ground.",
+        "icon": "/abilities/104713.webp"
+      },
+      {
+        "name": "Frost Burst",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch a high-speed snowball that bursts upon impact, dealing damage to enemies within range. This ability can paint the ground.",
+        "icon": "/abilities/104723.webp"
+      },
+      {
+        "name": "Blasting Bubble",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Spit a bubble that explodes after a short delay, dealing damage; using this Ability can paint the ground.",
+        "icon": "/abilities/104752.webp"
+      },
+      {
+        "name": "Hide And Seek",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "20/s",
+        "cooldown": "N/A",
+        "desc": "Dive into the scene with only his dorsal fin exposed, granting himself a <Buff>Movement Boost</>. Jeff can heal while submerged and gains the wall-crawl ability.",
+        "icon": "/abilities/104764.webp"
+      },
+      {
+        "name": "It's Jeff!",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "4500",
+        "cooldown": "N/A",
+        "desc": "Deep dive into the scene and resurface to swallow both enemies and allies within range, activating <Orange>Hide and Seek</> for a brief duration before ejecting the swallowed heroes forward. Use this ability to paint the ground.",
+        "icon": "/abilities/104772.webp"
+      },
+      {
+        "name": "It's Jeff-nado!",
+        "type": "Normal",
+        "key": "Z",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Storm unleashes her <Orange>Omega Hurricane</>, if Jeff the Land Shark has <Orange>It's Jeff!</> ready, he can channel her power to conjure a ferocious <Orange>Jeff-nado</>! Additionally, a <Orange>Jeff-nado</> will form if Jeff encounters Storm's <Orange>Omega Hurricane</> after devouring enemies with <Orange>It's Jeff!</>. Enemies will be drawn into the swirling chaos after enduring sustained damage from the <Orange>Jeff-nado</> for some time.",
+        "icon": "/abilities/104784.webp"
+      },
+      {
+        "name": "Guardian Of The Deep",
+        "type": "Normal",
+        "key": "X",
+        "energy_cost": "N/A",
+        "cooldown": "20s",
+        "desc": "Venom shares a part of his symbiotes with Jeff the Land Shark. When using the Team-Up Ability in either his normal state or during <Orange>Hide and Seek</>, Jeff extends symbiote tendrils to nearby allies, linking with them. Linked teammates receive <Buff>continuous healing</>. When the ability reaches its maximum duration, all linked allies gain a large burst of healing, with excess healing being converted into <Buff>Bonus Health</>.",
+        "icon": "/abilities/104783.webp"
+      }
+    ]
+  },
+  {
+    "id": "1048",
+    "slug": "psylocke",
+    "name": "psylocke",
+    "role": "Duelist",
+    "difficulty": "5",
+    "image": "/rivals/heroes/card/psylocke.png",
+    "team": [
+      "X_men",
+      "Mutants"
+    ],
+    "skills": [
+      {
+        "name": "Psionic Crossbow",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Unleash bolts with psionic crossbows to damage enemies and reduce the cooldowns of all her abilities.",
+        "icon": "/abilities/104821.webp"
+      },
+      {
+        "name": "Wing Shurikens",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "8s",
+        "desc": "Launch a volley of psionic shurikens that stick to enemies, dealing damage and granting herself <Buff>Bonus Health</>. Press again to recall the shurikens.",
+        "icon": "/abilities/104831.webp"
+      },
+      {
+        "name": "Psi-blade Dash",
+        "type": "Normal",
+        "key": "Shift",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Dash forward and slice through enemies along the path with psionic blades.",
+        "icon": "/abilities/104841.webp"
+      },
+      {
+        "name": "Psychic Stealth",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Enter stealth and gain a <Buff>Movement Boost</>.",
+        "icon": "/abilities/104851.webp"
+      },
+      {
+        "name": "Dance Of The Butterfly",
+        "type": "Normal",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Slash nearby enemies with a psionic katana, dealing massive damage.",
+        "icon": "/abilities/104861.webp"
+      },
+      {
+        "name": "Psionic Disc",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When Magik is on the field, {102600} can tap into Limbo to rewind a few seconds back to a previous position; after passing through Limbo, {102600} will gain <Buff>Bonus Health</> based on missing health.",
+        "icon": "/abilities/104895.webp"
+      },
+      {
+        "name": "Psychic Echoes",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "30s",
+        "desc": "Emma Frost can form a mental link with Magneto and Psylocke, calling on her to create illusory projections. When together, Emma Frost will create a Mental Projection of Magneto and Psylocke, forming a Duplicate Illusion in the enemy's perspective that confuses foes by moving and casting abilities on its own.",
+        "icon": "/abilities/104892.webp"
+      }
+    ]
+  },
+  {
+    "id": "1049",
+    "slug": "wolverine",
+    "name": "wolverine",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/wolverine.png",
+    "team": [
+      "X_men",
+      "Mutants"
+    ],
+    "skills": [
+      {
+        "name": "Regenerative Healing Factor",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "90s",
+        "desc": "Begin to heal and rise with a hefty <Buff>Bonus Health</>, shaking off all debuffs. After a brief moment, any remaining <Buff>Bonus Health</> morphs into a one-off heal, zeroing out his <Orange>Rage</>. Assists in KOs reduce this cooldown.",
+        "icon": "/abilities/104901.webp"
+      },
+      {
+        "name": "Berserker Rage",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "<Orange>Rage</> builds when Wolverine attacks or takes hits, boosting the damage of his <Orange>Claw Strikes</> and the <Buff>Bonus Health</> from his regenerative healing factor.",
+        "icon": "/abilities/104921.webp"
+      },
+      {
+        "name": "Savage Claw",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Slash with Adamantium claws for a <Orange>Claw Strike</>. Unleashing <Orange>Feral Leap</> will enhance it to <Orange>Berserk Claw Strike</> for a brief period.",
+        "icon": "/abilities/104941.webp"
+      },
+      {
+        "name": "Vicious Rampage",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "3s",
+        "desc": "Dash forward and unleash a <Orange>Claw Strike</>.",
+        "icon": "/abilities/104951.webp"
+      },
+      {
+        "name": "Undying Animal",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "16s",
+        "desc": "Unleash a fierce howl to briefly reduce incoming damage.",
+        "icon": "/abilities/104961.webp"
+      },
+      {
+        "name": "Feral Leap",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Leap like an animal to snatch the first enemy upon impact and <Debuff>Smash</> them to the ground. Unleashing this ability will enhance his normal attack to <Orange>Berserk Claw Strike</> for a brief period.",
+        "icon": "/abilities/104971.webp"
+      },
+      {
+        "name": "Last Stand",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "<Debuff>Launch Up</> enemies ahead and spiral through the air, sweeping up enemies along the path and delivering a devastating impact at the landing point. Impact deals extra damage based on <Orange>Rage</> accumulated.",
+        "icon": "/abilities/104981.webp"
+      },
+      {
+        "name": "Metal Cannonball",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "3s (when Wolverine is not hurled) and 15s (after hurling Wolverine)",
+        "desc": "Wolverine, Hulk{000003}{105100} can interact with each other. Once both parties confirm, Hulk{000003}{105100} can lift Wolverine and press the key to hurl him forward.",
+        "icon": "/abilities/104991.webp"
+      }
+    ]
+  },
+  {
+    "id": "1050",
+    "slug": "invisible-woman",
+    "name": "invisible woman",
+    "role": "Strategist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/invisible-woman.png",
+    "team": [
+      "Fantasticfour"
+    ],
+    "skills": [
+      {
+        "name": "Psionic Invisibility",
+        "type": "Passive",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Invisible Woman automatically becomes invisible 3 seconds after disengaging from combat.",
+        "icon": "/abilities/105002.webp"
+      },
+      {
+        "name": "Psionic Hammer",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Invisible Woman unleashes a devastating three-hit combo, each blow containing concentrated power of the force fields to strike foes. The third hit will launch up enemies in front of her.",
+        "icon": "/abilities/105011.webp"
+      },
+      {
+        "name": "Invisible Energy",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "When falling, Invisible Woman can perform a super jump and become invisible by pressing the space bar.",
+        "icon": "/abilities/105021.webp"
+      },
+      {
+        "name": "Psionic Support",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Invisible Woman generates a force shield in front of a selected ally. Once broken, the shield explodes to create a healing field.",
+        "icon": "/abilities/105041.webp"
+      },
+      {
+        "name": "Psionic Vortex",
+        "type": "Normal",
+        "key": "Shift",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Invisible Woman gathers psionic energy and throws it to create a vortex that pulls in enemies.",
+        "icon": "/abilities/105051.webp"
+      },
+      {
+        "name": "Psionic Surge",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Invisible Woman releases a cylindrical force field shockwave in the targeted direction, launching enemies up.",
+        "icon": "/abilities/105061.webp"
+      },
+      {
+        "name": "Invisible",
+        "type": "Ultimate",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Channeling her potential, Invisible Woman manifests an unseen force field, rendering allies inside undetectable by enemies and healing them.",
+        "icon": "/abilities/105071.webp"
+      },
+      {
+        "name": "Psionic Strike",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Invisible Woman fires a force field that can penetrate heroes, healing any allies it passes through.",
+        "icon": "/abilities/105031.webp"
+      },
+      {
+        "name": "Fantasti-force",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "The Invisible Woman taps into her powers, channeling Psionic Might to fortify the entire Fantastic Four team. This formidable force bolsters {104000}{000001}{105100}{000003}{101700}, granting damage resistance. Once activated, they can continually generate <Buff>Bonus Health</>, making up for lost Health with each passing moment.",
+        "icon": "/abilities/105081.webp"
+      }
+    ]
+  },
+  {
+    "id": "1051",
+    "slug": "the-thing",
+    "name": "the thing",
+    "role": "Vanguard",
+    "difficulty": "1",
+    "image": "/rivals/heroes/card/the-thing.png",
+    "team": [
+      "Fantasticfour"
+    ],
+    "skills": [
+      {
+        "name": "Unyielding Will",
+        "type": "Passive",
+        "key": "PASSIVE",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Immune to <Debuff>launch-up</>, <Debuff>knock-back</>, and other displacement effects.",
+        "icon": "/abilities/105101.webp"
+      },
+      {
+        "name": "Rocky Jab",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Rapidly punch forward.",
+        "icon": "/abilities/105111.webp"
+      },
+      {
+        "name": "Stone Haymaker",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Deliver a devastating Heavy Blow.",
+        "icon": "/abilities/105121.webp"
+      },
+      {
+        "name": "Yancy Street Charge",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Continuously charge forward, <Debuff>launching up</> enemies and leaving behind a zone at the final position that prevents the use of mobility abilities.",
+        "icon": "/abilities/105131.webp"
+      },
+      {
+        "name": "Embattled Leap",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "Basic Cooldown 3s, with a charge of 10s per use",
+        "desc": "Jump toward your ally and apply <Buff>damage reduction</> to both of you.",
+        "icon": "/abilities/105141.webp"
+      },
+      {
+        "name": "Clobberin' Time",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "2800",
+        "cooldown": "N/A",
+        "desc": "Use immense power to launch all enemies in front of you into the air.",
+        "icon": "/abilities/105151.webp"
+      },
+      {
+        "name": "Cooperative Comrades",
+        "type": "Normal",
+        "key": "C",
+        "energy_cost": "N/A",
+        "cooldown": "25s",
+        "desc": "The Invisible Woman taps into her powers, channeling Psionic Might to fortify the entire Fantastic Four team. This formidable force bolsters Human Torch, The Thing, and Mister Fantastic, granting damage resistance. Once activated, they can continually generate <Buff>Bonus Health</>, making up for lost Health.",
+        "icon": "/abilities/105191.webp"
+      },
+      {
+        "name": "Cosmic Fastball",
+        "type": "Normal",
+        "key": "Z",
+        "energy_cost": "N/A",
+        "cooldown": "3s when not thrown, 15s when thrown",
+        "desc": "Wolverine, Hulk{000003}{105100} can interact with each other. Once both parties confirm, Hulk{000003}{105100} can lift Wolverine and press the key to hurl him forward.",
+        "icon": "/abilities/105161.webp"
+      }
+    ]
+  },
+  {
+    "id": "1052",
+    "slug": "iron-fist",
+    "name": "iron fist",
+    "role": "Duelist",
+    "difficulty": "4",
+    "image": "/rivals/heroes/card/iron-fist.png",
+    "team": [
+      "Agentsofatlas",
+      "Immortalweapon"
+    ],
+    "skills": [
+      {
+        "name": "Wall Runner",
+        "type": "Passive",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Run horizontally along the walls.",
+        "icon": "/abilities/105201.webp"
+      },
+      {
+        "name": "Crane Leap",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "3 charges, with each charge taking 1s to recharge",
+        "desc": "Perform up to three consecutive jumps while airborne.",
+        "icon": "/abilities/105211.webp"
+      },
+      {
+        "name": "Jeet Kune Do",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Strike the targeted enemy with Jeet Kune Do, and the last strike will <Debuff>Launch Up</> enemies, reducing the cooldown of <Orange>Dragon's Defense</> with every hit.",
+        "icon": "/abilities/105221.webp"
+      },
+      {
+        "name": "Dragon's Defense",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "15s",
+        "desc": "Assume a defensive stance with a boost of Chi to block incoming attacks and gain <Buff>Damage Reduction</>. Once he exits the defensive stance, he gains <Buff>Bonus Health</> and can strike back with <Orange>Yat Jee Chung Kuen</>.",
+        "icon": "/abilities/105231.webp"
+      },
+      {
+        "name": "Yat Jee Chung Kuen",
+        "type": "Weapon",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Dash forward to pursue the targeted enemy and unleash a flurry of attacks.",
+        "icon": "/abilities/105232.webp"
+      },
+      {
+        "name": "Harmony Recovery",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Cross legs and channel Chi, recovering health. Excess healing converts to <Buff>Bonus Health</>.",
+        "icon": "/abilities/105241.webp"
+      },
+      {
+        "name": "K'un-lun Kick",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Dash forward, delivering a flying kick when hitting an enemy or reaching full range, dealing damage to nearby enemies. Damage increases with lower enemy health.",
+        "icon": "/abilities/105251.webp"
+      },
+      {
+        "name": "Living Chi",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Become living Chi to boost his speed, damage, and attack range, delivering stronger punches while reducing the cooldown of <Orange>Dragon's Defense</>.",
+        "icon": "/abilities/105261.webp"
+      },
+      {
+        "name": "Chi Absorption",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Assists in taking down enemies allow him to absorb their Chi and gain <Buff>Bonus Health</>.",
+        "icon": "/abilities/105203.webp"
+      },
+      {
+        "name": "Dragon's Chill",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Iron Fist channels the Chi of Shou-Lao into Luna Snow, transforming her ice power into a Chi-infused frosty ring that radiates from her. This ring can launch up enemies with chilling damage and applies a slowing effect, while simultaneously healing her allies.",
+        "icon": "/abilities/105271.webp"
+      },
+      {
+        "name": "LION'S LAUNCH",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch the ball forward with incredible speed.",
+        "icon": "/abilities/105291.webp"
+      },
+      {
+        "name": "FEROCIOUS THROW",
+        "type": "Weapon",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Hurl the ball with fierce intensity. Charging longer enhances both speed and distance.",
+        "icon": "/abilities/105292.webp"
+      },
+      {
+        "name": "CRANE LEAP",
+        "type": "Normal",
+        "key": "Space",
+        "energy_cost": "N/A",
+        "cooldown": "3 charges, with each charge taking 1s to recharge",
+        "desc": "Perform up to three consecutive jumps while airborne.",
+        "icon": "/abilities/105212.webp"
+      },
+      {
+        "name": "LION KICK",
+        "type": "Normal",
+        "key": "N/A",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Sprint forward and hit the enemy or use a flying kick to launch surrounding enemies up upon reaching maximum distance, causing the enemy to lose the ball. This ability can only be used when not in possession of the ball.",
+        "icon": "/abilities/105252.webp"
+      }
+    ]
+  },
+  {
+    "id": "1053",
+    "slug": "emma-frost",
+    "name": "emma frost",
+    "role": "Vanguard",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/emma-frost.png",
+    "team": [
+      "X_men",
+      "Mutants",
+      "Villains"
+    ],
+    "skills": [
+      {
+        "name": "Telepathic Pulse",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Fire a psionic beam to deal damage; the longer the beam hits, the higher the damage.",
+        "icon": "/abilities/105321.webp"
+      },
+      {
+        "name": "Mind's Aegis",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Create a levitating barrier at the designated location.",
+        "icon": "/abilities/105331.webp"
+      },
+      {
+        "name": "Diamond Form",
+        "type": "Normal",
+        "key": "SHIFT",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Activate <Orange>Diamond Form</> to transform your attack style while gaining <Buff>Damage Reduction</> and becoming <Buff>Unstoppable</>.",
+        "icon": "/abilities/105341.webp"
+      },
+      {
+        "name": "Faceted Fury",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "In <Orange>Diamond Form</>, deliver a crushing double-fisted strike to enemies.",
+        "icon": "/abilities/105342.webp"
+      },
+      {
+        "name": "Crystal Kick",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "2s",
+        "desc": "In <Orange>Diamond Form</>, unleash a flying kick forward and <Debuff>knock back</> enemies; extra damage is dealt if they're propelled into a wall.",
+        "icon": "/abilities/105343.webp"
+      },
+      {
+        "name": "Carbon Crush",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "6s",
+        "desc": "In <Orange>Diamond Form</>, lunge forward to grab an enemy, then execute a back slam to inflict damage.",
+        "icon": "/abilities/105344.webp"
+      },
+      {
+        "name": "Psychic Spear",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Seize control of an enemy's sentience—damage dealt to the <Orange>sentience</> cascades to the physical form and can be pierced by <Orange>Telepathic Pulse</>. When the sentience shatters, it unleashes extra damage on its owner.",
+        "icon": "/abilities/105351.webp"
+      },
+      {
+        "name": "Psionic Seduction",
+        "type": "Normal",
+        "key": "Q",
+        "energy_cost": "3700",
+        "cooldown": "N/A",
+        "desc": "Project a forward psychic assault that stuns foes and prevents them from unleashing their Ultimate Abilities; if the effect lingers, it gradually commandeers their mind, forcing them to move toward Emma Frost.",
+        "icon": "/abilities/105361.webp"
+      },
+      {
+        "name": "Mind Link",
+        "type": "Normal",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Emma Frost can form a mental link with Magneto and Psylocke, calling on her to create illusory projections. When together, Emma Frost will create a Mental Projection of Magneto and Psylocke, forming a Duplicate Illusion in the enemy's perspective that confuses foes by moving and casting abilities on its own.",
+        "icon": "/abilities/105381.webp"
+      }
+    ]
+  },
+  {
+    "id": "1054",
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "role": "Duelist",
+    "difficulty": "3",
+    "image": "/rivals/heroes/card/phoenix.png",
+    "team": [
+      "X_men",
+      "Mutants",
+      "Heroes"
+    ],
+    "skills": [
+      {
+        "name": "Cosmic Flames",
+        "type": "Normal",
+        "key": "Left Click",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "Launch a fiery projectile forward, applying 1 Spark to enemies hit. Critical hits apply 2 Sparks. At 3 Sparks, Phoenix triggers a fiery explosion that applies 1 Spark to enemies around and Healing Over Time to self.",
+        "icon": "/abilities/105411.webp"
+      },
+      {
+        "name": "Telekinesis Burst",
+        "type": "Normal",
+        "key": "Right Click",
+        "energy_cost": "N/A",
+        "cooldown": "10s",
+        "desc": "Mark a targeted area with psionic energy, followed by a series of fiery explosions. The first blast Stuns enemies, while the subsequent two explosions inflict Slow. Applies 1 Spark to enemies hit.",
+        "icon": "/abilities/105441.webp"
+      },
+      {
+        "name": "Dark Ascent",
+        "type": "Normal",
+        "key": "E",
+        "energy_cost": "400/s",
+        "cooldown": "N/A",
+        "desc": "Merge with the Phoenix, entering a state of free flight. Gain a Movement Boost while continuously replenishing ammunition.",
+        "icon": "/abilities/105451.webp"
+      },
+      {
+        "name": "Telepathic Illusion",
+        "type": "Movement",
+        "key": "Shift",
+        "energy_cost": "N/A",
+        "cooldown": "12s",
+        "desc": "Leave behind an illusion and instantly teleport in the desired direction, followed by detonating the illusion. Enemies hit are applied with 1 Spark.",
+        "icon": "/abilities/105461.webp"
+      },
+      {
+        "name": "Endsong Inferno",
+        "type": "Ultimate",
+        "key": "Q",
+        "energy_cost": "3100",
+        "cooldown": "N/A",
+        "desc": "Soar into the sky with the Phoenix and crash down onto a selected area, dealing devastating damage to enemies while creating a shockwave that destroys enemy summons, shields, and any Bonus Health. Enemies hit are applied with 1 Spark.",
+        "icon": "/abilities/105471.webp"
+      },
+      {
+        "name": "Mind's Grace",
+        "type": "Passive",
+        "key": "Passive",
+        "energy_cost": "N/A",
+        "cooldown": "N/A",
+        "desc": "JJean Grey imbues Wolverine with the awe-inspiring Phoenix Force. With this power, Wolverine's Feral Leap transforms into Phoenix Warrior. While active, he is enveloped in Phoenix flames that continuously scorch nearby enemies, dealing Percentage Damage. In this state, Wolverine's abilities gain Lifesteal when inflicting damage.",
+        "icon": "/abilities/100024.webp"
+      }
+    ]
+  }
+]
