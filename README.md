@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <a href="https://rivalsvictory.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets@main/public/favicon.svg" width="120" height="120" alt="Rivals Victory Logo">
