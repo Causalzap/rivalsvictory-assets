@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
   <a href="https://rivalsvictory.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets@main/public/favicon.svg" width="120" height="120" alt="Rivals Victory Logo">
@@ -59,3 +60,63 @@ You can fetch the latest JSON data directly via CDN for your projects.
   },
   ...
 ]
+
+```
+
+---
+
+## 🎨 Brand Assets
+
+If you are writing articles or creating videos about Rivals Victory, please use these high-resolution assets.
+
+| Asset Name | Preview | Type | CDN Link |
+| --- | --- | --- | --- |
+| **Main Logo** | <img src="public/favicon.svg" width="32"/> | SVG | [`Link`](https://www.google.com/url?sa=E&source=gmail&q=https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets@main/public/favicon.svg) |
+| **Social Cover** | 🖼️ | PNG | [`Link`](https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets%40main/social/banner.png) |
+
+> **Usage Note:** Please do not modify the logo proportions or core colors.
+
+---
+
+## 🛠️ Developer Guide
+
+We recommend using **jsDelivr** for global accelerated access instead of linking directly to GitHub Raw files.
+
+### Fetching Data (JavaScript / TypeScript)
+
+```javascript
+const HEROES_API = "[https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets@main/data/heroes.json](https://cdn.jsdelivr.net/gh/rivalsvictory-assets/rivalsvictory-assets@main/data/heroes.json)";
+
+async function fetchHeroes() {
+  const response = await fetch(HEROES_API);
+  const data = await response.json();
+  console.log(data);
+}
+
+```
+
+---
+
+## 🤝 Contributing
+
+Found a data error? Or has a new game patch been released?
+Feel free to open an **Issue** or submit a **Pull Request** to help us update the data. All data is verified against the live game client.
+
+## 🔗 Related Links
+
+* **Official Website:** [https://rivalsvictory.com](https://rivalsvictory.com)
+* **Tactical Database:** [https://rivalsvictory.com/vs/](https://www.google.com/search?q=https://rivalsvictory.com/vs/)
+* **Contact:** [support@rivalsvictory.com](mailto:support@rivalsvictory.com)
+
+---
+
+<div align="center">
+<p>
+<sub>Data is sourced from the game client and community testing. "Marvel Rivals" is a trademark of NetEase Games / Marvel Entertainment. This project is not affiliated with Marvel or NetEase.</sub>
+</p>
+<p>© 2026 Rivals Victory. Built for the community.</p>
+</div>
+
+```
+
+```
